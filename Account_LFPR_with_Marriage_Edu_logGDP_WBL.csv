@@ -1,0 +1,695 @@
+Economy,Economy_Code,Year,Adult_Population_15+,Region,Country_Income_group,gap_of_Account,gap of Bank or similar financial institution account (%),gap_of_Debit,gap_of_Credit,LFPR_Gap,Women_Marriage_Rate,Enroll_Female_Secondary,logGDP,WBL_Index
+Afghanistan,AFG,2014,16708999,South Asia (excluding high income),Low income,,,,,58.119,66.71,38.53305817,23.74355064,28.75
+Afghanistan,AFG,2017,18807229,South Asia (excluding high income),Low income,0.153758109,0.157260669,,,52.161,66.1,39.93785858,23.65464392,38.125
+Afghanistan,AFG,2021,21791072,South Asia (excluding high income),Low income,,,,,52.622,65.84,,23.38072393,38.125
+Albania,ALB,2011,2281010,Europe & Central Asia (excluding high income),Upper middle income,0.109920662,0.109920662,0.092526297,0.054614425,15.068,64.13,92.29814911,23.28619438,85.625
+Albania,ALB,2014,2322032,Europe & Central Asia (excluding high income),Upper middle income,0.089254573,0.089254573,0.08333247,,19.349,64.12,98.90645997,23.31075334,85.625
+Albania,ALB,2017,2340965,Europe & Central Asia (excluding high income),Upper middle income,0.039405453,0.038976434,0.064127815,,17.015,65.18,94.92334685,23.30788723,91.25
+Albania,ALB,2021,2340601,Europe & Central Asia (excluding high income),Upper middle income,-0.031009444,-0.031009444,-0.017003934,,14.277,67.35,94.35566047,23.61541431,91.25
+Albania,ALB,2024,2278004,Europe & Central Asia (excluding high income),Upper middle income,0.102948498,0.102948498,0.038243714,,14.65,,106.7157364,24.02566393,91.25
+Algeria,DZA,2011,26251587,Middle East & North Africa (excluding high income),Lower middle income,0.257205274,0.257205274,0.081127752,,55.979,55.06,106.7806061,26.1077609,55
+Algeria,DZA,2014,27628433,Middle East & North Africa (excluding high income),Lower middle income,0.208381148,0.208381148,0.201279546,,53.385,55.58,,26.19972939,55
+Algeria,DZA,2017,28799702,Middle East & North Africa (excluding high income),Lower middle income,0.269862078,0.269862078,0.135945057,,53.615,55.79,,25.97028991,57.5
+Algeria,DZA,2021,30458426,Middle East & North Africa (excluding high income),Lower middle income,0.256389201,0.256389201,0.207969597,,50.954,54.8,,25.94901251,57.5
+Algeria,DZA,2024,32019804,Middle East & North Africa (excluding high income),Lower middle income,0.337919266,0.337919266,0.237530317,,52.51,,106.5338078,26.29921494,57.5
+Angola,AGO,2011,12779501,Sub-Saharan Africa (excluding high income),Lower middle income,0.005526245,0.005526245,0.01587384,-0.032559035,5.034,57.29,22.3924408,25.44176471,62.5
+Angola,AGO,2014,14342950,Sub-Saharan Africa (excluding high income),Lower middle income,0.138004849,0.138004849,0.108831232,,4.73,57.25,,25.63592072,70.625
+Argentina,ARG,2011,30685516,Latin America & Caribbean (excluding high income),Upper middle income,0.027954069,0.027954069,0.006602801,0.037035466,26.033,51.94,106.7339935,26.99614284,73.125
+Argentina,ARG,2014,31872846,Latin America & Caribbean (excluding high income),Upper middle income,-0.013933974,-0.013933974,0.002268091,0.033298648,24.589,51.18,110.3636093,26.98856705,73.125
+Argentina,ARG,2017,33036043,Latin America & Caribbean (excluding high income),Upper middle income,-0.042908737,-0.04759917,-0.046438097,0.047032868,22.748,50.48,113.5300903,27.19096456,73.125
+Argentina,ARG,2021,34481880,Latin America & Caribbean (excluding high income),Upper middle income,-0.04191255,-0.008932191,0.040121588,0.110892614,20.576,49.45,119.1815109,26.91152996,76.25
+Argentina,ARG,2024,35433130,Latin America & Caribbean (excluding high income),Upper middle income,-0.053101902,-0.085151563,-0.078347166,0.003650419,18.862,,,27.17373626,79.375
+Armenia,ARM,2011,2457011,Europe & Central Asia (excluding high income),Upper middle income,-0.014325655,-0.014325655,,,13.653,61.01,92.73712158,23.03996208,79.375
+Armenia,ARM,2014,2428128,Europe & Central Asia (excluding high income),Upper middle income,0.063750751,0.063130178,,,13.585,61.99,86.61898041,23.17509071,82.5
+Armenia,ARM,2017,2384230,Europe & Central Asia (excluding high income),Upper middle income,0.14844981,0.129408615,0.105114415,,13.475,63.06,,23.16799774,82.5
+Armenia,ARM,2021,2364189,Europe & Central Asia (excluding high income),Upper middle income,0.071925784,0.070887775,0.08391063,,10.844,61.99,89.59611596,23.35363616,85
+Armenia,ARM,2024,2406318,Europe & Central Asia (excluding high income),Upper middle income,0.075789446,0.067021551,0.078709262,,11.566,,90.13469547,23.97312027,90.625
+Australia,AUS,2011,17830548,High income,High income,0.010024104,0.010024104,0.029079462,-0.061675146,13.323,54.23,,27.96749335,83.75
+Australia,AUS,2014,18749193,High income,High income,-0.003656528,-0.003656528,-0.042427987,-0.005434271,12.334,53.95,,28.01628352,93.75
+Australia,AUS,2017,19621820,High income,High income,0.006594448,0.006594448,-0.018777847,0.023959165,10.914,53.79,144.5345306,27.91620006,96.875
+Australia,AUS,2021,20888823,High income,High income,-0.014066289,-0.014066289,-0.020571085,-0.059016627,9.535,53.98,133.3471832,28.07570694,96.875
+Australia,AUS,2024,21852264,High income,High income,0.0057833,0.0057833,0.019134627,,8.856,,,28.1906369,96.875
+Austria,AUT,2011,7123870,High income,High income,0.011733457,0.011733457,0.021904986,0.071401765,12.358,56.4,97.58538818,26.78472276,91.25
+Austria,AUT,2014,7260944,High income,High income,-0.01316272,-0.01316272,-0.079919224,0.066005286,11.158,56.8,99.41703796,26.80776525,91.25
+Austria,AUT,2017,7481549,High income,High income,-0.004408052,-0.004408052,0.033811911,0.023910246,10.892,57.4,98.83361816,26.75154436,94.375
+Austria,AUT,2021,7633446,High income,High income,-0.001013292,-0.001013292,0.003282868,0.039005015,10.815,58.26,101.0847092,26.89705194,96.875
+Austria,AUT,2024,7825678,High income,High income,0.006505633,0.006505633,0.010670054,,10.264,,,26.98093342,96.875
+Azerbaijan,AZE,2011,7034188,Europe & Central Asia (excluding high income),Upper middle income,0.013570089,0.013570089,0.014459305,,3.756,58.42,,24.91220512,76.25
+Azerbaijan,AZE,2014,7283305,Europe & Central Asia (excluding high income),Upper middle income,0.067165662,0.067165662,0.024709576,,5.377,59.57,,25.04394599,78.75
+Azerbaijan,AZE,2017,7438923,Europe & Central Asia (excluding high income),Upper middle income,0.017164651,0.017164651,0.003109319,,5.972,60.09,,24.43357961,78.75
+Azerbaijan,AZE,2021,7732344,Europe & Central Asia (excluding high income),Upper middle income,0.157433962,0.157433962,0.116098449,,5.2,59.66,90.48780299,24.72741964,78.75
+Azerbaijan,AZE,2024,7885113,Europe & Central Asia (excluding high income),Upper middle income,0.208311181,0.208311181,0.201305045,0.084932253,5.36,,89.60752234,25.03159053,85
+Bahrain,BHR,2011,978145,High income,High income,0.301977823,0.301977823,0.312852826,0.211306392,43.903,57.28,94.53557034,24.1216152,31.875
+Bahrain,BHR,2014,1005566,High income,High income,0.235045703,0.235045703,0.270552414,0.157839631,43.48,57.53,104.9441327,24.27209345,35
+Bahrain,BHR,2017,1137724,High income,High income,0.109069599,0.109069599,0.143895149,0.134423946,43.675,57.45,101.6638189,24.33970399,37.5
+Bahrain,BHR,2024,1277545,High income,High income,-0.010596459,-0.010596459,-0.031823153,,42.987,,97.57344721,24.58896638,68.125
+Bangladesh,BGD,2011,100376575,South Asia (excluding high income),Lower middle income,0.112799491,0.112799491,,,47.064,79.06,52.97284697,25.58307824,46.875
+Bangladesh,BGD,2014,105778630,South Asia (excluding high income),Lower middle income,0.089159664,0.077074139,,,47.752,79.46,,25.87655743,49.375
+Bangladesh,BGD,2017,111658076,South Asia (excluding high income),Lower middle income,0.287498096,0.183288111,,,44.731,79.72,66.82060803,26.4068456,49.375
+Bangladesh,BGD,2021,117641793,South Asia (excluding high income),Lower middle income,0.194057647,0.14758383,,,39.028,80.32,75.08964167,26.7539511,49.375
+Bangladesh,BGD,2024,122837439,South Asia (excluding high income),Lower middle income,0.201650281,0.129454765,,,36.79,,70.47203098,26.83251342,49.375
+Belarus,BLR,2011,8075665,Europe & Central Asia (excluding high income),Upper middle income,0.011712905,0.011712905,0.026639316,,12.002,62.06,107.1135958,24.84656032,73.125
+Belarus,BLR,2014,7971997,Europe & Central Asia (excluding high income),Upper middle income,0.000551834,0.000551834,0.049500545,0.067805678,12.248,62.7,102.5516718,25.09034467,73.125
+Belarus,BLR,2017,7909969,Europe & Central Asia (excluding high income),Upper middle income,-0.004040004,-0.004040004,0.02653247,-0.054054364,12.928,62.66,101.5835427,24.72559389,75.625
+Belgium,BEL,2011,9049843,High income,High income,-0.018884127,-0.018884127,0.017657211,0.175171415,12.717,56.94,170.0056458,26.99046639,100
+Belgium,BEL,2014,9263588,High income,High income,-0.02815755,-0.02815755,-0.008349126,0.075884772,11.181,55.35,172.866333,27.0111244,100
+Belgium,BEL,2017,9407055,High income,High income,-0.003682888,-0.003682888,-0.000956508,0.081282645,10.976,54.01,168.2164917,26.93987194,100
+Belgium,BEL,2021,9600074,High income,High income,0.007229673,0.007229673,0.006189603,0.113904946,9.563,52.4,150.5850067,27.11852744,100
+Belgium,BEL,2024,9867164,High income,High income,0.006483084,0.006483084,0.002978333,,9.155,,,27.22305288,100
+Belize,BLZ,2014,228016,Latin America & Caribbean (excluding high income),Upper middle income,-0.081987428,-0.081987428,-0.031306735,0.020267771,32.209,58.12,82.73001179,21.48325357,79.375
+Belize,BLZ,2024,300138,Latin America & Caribbean (excluding high income),Upper middle income,0.058831678,0.066235026,0.093811835,-0.002047274,25.548,,87.42329873,21.98052819,82.5
+Benin,BEN,2011,5496491,Sub-Saharan Africa (excluding high income),Lower middle income,0.013432129,0.013432129,,,4.669,68.46,35.18872833,23.09288521,71.875
+Benin,BEN,2014,6043333,Sub-Saharan Africa (excluding high income),Lower middle income,0.061633198,0.063380426,,,3.453,67.76,43.03720856,23.30986588,74.375
+Benin,BEN,2017,6631280,Sub-Saharan Africa (excluding high income),Lower middle income,0.200373195,0.181567177,0.066004,,2.294,67.11,,23.2649982,74.375
+Benin,BEN,2021,7495327,Sub-Saharan Africa (excluding high income),Lower middle income,0.183872225,0.131149774,,,2.407,66.04,40.25465012,23.596131,77.5
+Benin,BEN,2024,8207504,Sub-Saharan Africa (excluding high income),Lower middle income,0.059604405,-3.03E-05,,,2.726,,,23.79051118,83.75
+Bhutan,BTN,2014,523289,South Asia (excluding high income),Lower middle income,0.113121395,0.113121395,0.035438711,,15.921,62.02,92.2578125,21.45998941,75
+Bolivia,BOL,2011,6675907,Latin America & Caribbean (excluding high income),Lower middle income,0.060178185,0.060178185,0.035562098,,21.286,,85.44636135,23.89978368,68.125
+Bolivia,BOL,2014,7120716,Latin America & Caribbean (excluding high income),Lower middle income,0.07717228,0.063574902,0.078603982,,21.009,,89.13040816,24.21965788,76.875
+Bolivia,BOL,2017,7571421,Latin America & Caribbean (excluding high income),Lower middle income,0.011315578,-0.002348958,0.038217784,,18.995,,88.51993363,24.3478372,88.75
+Bolivia,BOL,2021,8150856,Latin America & Caribbean (excluding high income),Lower middle income,0.107510326,0.103061497,0.082206624,0.041863575,13.499,,90.19260695,24.42224689,88.75
+Bolivia,BOL,2024,8553476,Latin America & Caribbean (excluding high income),Lower middle income,0.068662637,0.098287255,0.088193114,0.035932617,12.543,,,24.62863267,88.75
+Bosnia and Herzegovina,BIH,2011,3217823,Europe & Central Asia (excluding high income),Upper middle income,0.195043783,0.195043783,0.20408555,0.070468009,23.553,65.28,89.17192078,23.64880274,81.875
+Bosnia and Herzegovina,BIH,2014,3077307,Europe & Central Asia (excluding high income),Upper middle income,0.117635549,0.117635549,0.1070313,,23.531,65.27,92.19921112,23.64420633,81.875
+Bosnia and Herzegovina,BIH,2017,2982772,Europe & Central Asia (excluding high income),Upper middle income,0.084345524,0.084345524,0.029889489,,23.023,65.24,85.61588287,23.63160703,88.125
+Bosnia and Herzegovina,BIH,2021,2851847,Europe & Central Asia (excluding high income),Upper middle income,0.183463429,0.183463429,0.192338087,0.067152449,22.174,64.8,87.8970108,23.88758884,85
+Bosnia and Herzegovina,BIH,2024,2764009,Europe & Central Asia (excluding high income),Upper middle income,0.03514955,0.03514955,0.122539678,0.014623522,20.921,,,24.06765983,85
+Botswana,BWA,2011,1340324,Sub-Saharan Africa (excluding high income),Upper middle income,0.03799191,0.03799191,0.043754804,0.011555949,13.119,41.12,,23.43866521,63.75
+Botswana,BWA,2014,1405268,Sub-Saharan Africa (excluding high income),Upper middle income,0.06497379,0.067898579,0.044327796,,12.265,41.59,,23.46217422,63.75
+Botswana,BWA,2017,1470809,Sub-Saharan Africa (excluding high income),Upper middle income,0.094217306,0.083343676,0.132289055,,11.451,41.5,,23.5024053,63.75
+Botswana,BWA,2021,1588124,Sub-Saharan Africa (excluding high income),Upper middle income,0.104290827,0.10865673,0.070766283,,10.155,41.7,74.06524658,23.65446931,63.75
+Botswana,BWA,2024,1679590,Sub-Saharan Africa (excluding high income),Upper middle income,0.038635933,0.032554141,0.059401472,,9.63,,,23.68857884,63.75
+Brazil,BRA,2011,145842533,Latin America & Caribbean (excluding high income),Upper middle income,0.100798884,0.100798884,0.107526051,0.049893129,23.176,58.97,,28.59419543,81.875
+Brazil,BRA,2014,152293155,Latin America & Caribbean (excluding high income),Upper middle income,0.069151125,0.069151125,0.114004533,0.117959518,23.144,58.12,106.1211929,28.53118247,81.875
+Brazil,BRA,2017,158478074,Latin America & Caribbean (excluding high income),Upper middle income,0.053328949,0.053328949,0.10401998,0.106870122,20.807,57.34,104.6052704,28.3537271,81.875
+Brazil,BRA,2021,165349748,Latin America & Caribbean (excluding high income),Upper middle income,0.061806122,0.059042065,0.113040566,0.138282162,20.432,56.38,110.2274399,28.14384474,85
+Brazil,BRA,2024,169047814,Latin America & Caribbean (excluding high income),Upper middle income,0.085771951,0.091820762,0.097271414,0.137869987,19.843,,,28.41034599,85
+Bulgaria,BGR,2011,6400381,Europe & Central Asia (excluding high income),Upper middle income,-0.055536385,-0.055536385,-0.049505271,0.05887242,11.095,60.9,94.1002121,24.77819875,93.75
+Bulgaria,BGR,2014,6271977,Europe & Central Asia (excluding high income),Upper middle income,-0.003644904,-0.003644904,-0.018862965,0.049207073,11.574,60.28,102.4883423,24.76773534,90.625
+Bulgaria,BGR,2017,6128150,Europe & Central Asia (excluding high income),Upper middle income,-0.030173243,-0.030173243,-0.005317913,0.03285241,12.063,59.53,101.6153717,24.80364073,90.625
+Bulgaria,BGR,2021,5933315,Europe & Central Asia (excluding high income),Upper middle income,-0.007352564,-0.007352564,-0.060812469,0.020321884,13.078,57.85,97.46845245,25.15900056,90.625
+Bulgaria,BGR,2024,5509377,Europe & Central Asia (excluding high income),Upper middle income,-0.006734904,-0.006734904,0.010231838,0.014454718,12.063,,,25.44176471,90.625
+Burkina Faso,BFA,2011,8802362,Sub-Saharan Africa (excluding high income),Low income,0.048817128,0.048817128,,,20.12,76.88,20.15049376,23.21484153,76.875
+Burkina Faso,BFA,2014,9623020,Sub-Saharan Africa (excluding high income),Low income,0.034316191,0.033592617,,,16.294,76.2,27.37725094,23.35824458,76.875
+Burkina Faso,BFA,2017,10570484,Sub-Saharan Africa (excluding high income),Low income,0.16782018,0.061196936,0.082722991,,14.852,75.47,36.43375128,23.36993382,76.875
+Burkina Faso,BFA,2021,12018028,Sub-Saharan Africa (excluding high income),Low income,0.11669921,0.086878592,,,12.898,74.3,40.13346431,23.70375839,82.5
+Burkina Faso,BFA,2024,13262560,Sub-Saharan Africa (excluding high income),Low income,0.157963293,0.058038742,,,12.469,,33.23891825,23.86958021,82.5
+Burundi,BDI,2014,5630929,Sub-Saharan Africa (excluding high income),Low income,,,,,-3.101,58.42,37.6532237,21.71865729,73.125
+Cambodia,KHM,2014,10284331,East Asia & Pacific (excluding high income),Lower middle income,0.03791407,0.042605794,,,12.355,63.51,,23.81619124,75
+Cambodia,KHM,2017,10807431,East Asia & Pacific (excluding high income),Lower middle income,0.003190634,0.012386433,,,10.432,65.61,51.20547473,24.10275141,75
+Cambodia,KHM,2021,11527565,East Asia & Pacific (excluding high income),Lower middle income,0.018877042,0.02820677,0.07985428,,12.087,66.99,59.18885209,24.32849636,75
+Cambodia,KHM,2024,12177453,East Asia & Pacific (excluding high income),Lower middle income,0.04781687,0.036993343,0.010061219,,12.501,,63.09866735,24.55954424,81.25
+Cameroon,CMR,2011,11072780,Sub-Saharan Africa (excluding high income),Lower middle income,0.079301184,0.079301184,,,11.337,62.97,45.50051558,24.14527548,50.625
+Cameroon,CMR,2014,12084831,Sub-Saharan Africa (excluding high income),Lower middle income,0.040006987,0.049407988,,,10.281,61,54.14093126,24.31746489,50.625
+Cameroon,CMR,2017,13358414,Sub-Saharan Africa (excluding high income),Lower middle income,0.092140847,0.084117637,0.051632256,,13.146,58.9,,24.30951845,50.625
+Cameroon,CMR,2021,15059599,Sub-Saharan Africa (excluding high income),Lower middle income,0.048924664,0.066053463,,,16.618,55.73,42.61158841,24.53019357,60
+Cameroon,CMR,2024,16524096,Sub-Saharan Africa (excluding high income),Lower middle income,0.164556644,0.091888124,,,17.551,,,24.66147818,60
+Canada,CAN,2011,28373521,High income,High income,-0.029579394,-0.029579394,-0.064042716,-0.060282038,10.061,53.1,102.0876007,28.21323674,97.5
+Canada,CAN,2014,29372810,High income,High income,-0.001932762,-0.001932762,-0.016025297,0.028950874,9.773,52.68,112.1737366,28.22434796,97.5
+Canada,CAN,2017,30253020,High income,High income,-0.002604967,-0.002604967,-0.011673515,-0.022024499,9.565,52.16,112.2056503,28.1317964,97.5
+Canada,CAN,2021,31991096,High income,High income,0.002622357,0.002622357,-0.001946545,-0.013538968,9.228,51.6,109.4836197,28.33411863,100
+Canada,CAN,2024,33960981,High income,High income,-0.006946294,-0.006946294,-0.011434081,,8.527,,,28.43749698,100
+Central African Republic,CAF,2017,2404000,Sub-Saharan Africa (excluding high income),Low income,0.083648839,0.083648839,,,16.838,65.52,12.79310036,21.45194905,77.5
+Chad,TCD,2014,7035329,Sub-Saharan Africa (excluding high income),Low income,0.09631767,,,,22.101,74.02,14.28285027,23.62162433,57.5
+Chad,TCD,2017,7782131,Sub-Saharan Africa (excluding high income),Low income,0.141805306,,,,22.867,73.19,14.012363,23.31471041,57.5
+Chad,TCD,2021,8962706,Sub-Saharan Africa (excluding high income),Low income,0.022977837,0.021794822,,,22.526,71.85,17.26723294,23.54891759,66.25
+Chad,TCD,2024,10289880,Sub-Saharan Africa (excluding high income),Low income,0.015536106,0.024361167,,,23.805,,19.43901071,23.74980427,66.25
+Chile,CHL,2011,13480066,High income,High income,0.024675611,0.024675611,0.068454492,0.018431873,25.855,44.85,92.40019226,26.24871878,75
+Chile,CHL,2014,14064832,High income,High income,0.086531454,0.087444875,0.076937507,0.004824878,23.83,45.59,100.3207169,26.28394747,77.5
+Chile,CHL,2017,14675996,High income,High income,0.064800795,0.067724385,0.037863426,-0.019177285,22.678,46.49,102.5392227,26.3436667,77.5
+Chile,CHL,2021,15803947,High income,High income,0.009481362,0.009481362,0.034116377,0.050485735,22.195,48.06,106.1259995,26.47583848,80
+Chile,CHL,2024,16241277,High income,High income,0.039188956,0.039188956,0.02665159,,19.153,,,26.52235849,80
+China,CHN,2011,1090576711,East Asia & Pacific (excluding high income),Upper middle income,0.07576121,0.07576121,0.052871429,,14.254,70.94,93.07789229,29.66833773,69.375
+China,CHN,2014,1113693456,East Asia & Pacific (excluding high income),Upper middle income,0.050273398,0.050273398,0.033023932,0.029059047,13.555,71.01,,30.00126486,75.625
+China,CHN,2017,1133758537,East Asia & Pacific (excluding high income),Upper middle income,0.077060144,0.077060144,0.070048642,0.044294804,12.739,70.83,,30.15674976,75.625
+China,CHN,2021,1157739289,East Asia & Pacific (excluding high income),Upper middle income,0.025778919,0.025778919,0.022540657,-0.035623898,11.738,69.54,,30.53244271,75.625
+China,CHN,2024,1176678702,East Asia & Pacific (excluding high income),Upper middle income,0.003529379,0.003529379,0.019907696,0.000231982,11.551,,,30.55954464,78.125
+Colombia,COL,2011,32481705,Latin America & Caribbean (excluding high income),Upper middle income,0.1058119,0.1058119,0.088104262,0.061280443,25.692,51.25,105.4418335,26.53739637,73.125
+Colombia,COL,2014,34309704,Latin America & Caribbean (excluding high income),Upper middle income,0.10468179,0.098961535,0.122138404,0.066130396,24.511,51.07,101.2459106,26.66606521,78.75
+Colombia,COL,2017,36092425,Latin America & Caribbean (excluding high income),Upper middle income,0.069725394,0.073895945,0.108085364,0.08151388,23.853,50.96,102.081871,26.46626902,78.75
+Colombia,COL,2021,39661157,Latin America & Caribbean (excluding high income),Upper middle income,0.073081429,0.087980158,0.084506691,0.071721251,25.86,51.14,105.2272568,26.48845694,81.875
+Colombia,COL,2024,41544122,Latin America & Caribbean (excluding high income),Upper middle income,0.126685081,0.182682082,0.160617751,,24.299,,,26.76113676,84.375
+Comoros,COM,2011,382348,Sub-Saharan Africa (excluding high income),Lower middle income,0.078041921,0.078041921,,,22.115,61.5,,20.74609083,43.75
+Comoros,COM,2021,495193,Sub-Saharan Africa (excluding high income),Lower middle income,0.110496588,0.067637857,,,18.143,63.05,,20.98489084,65
+Comoros,COM,2024,532331,Sub-Saharan Africa (excluding high income),Lower middle income,0.077630292,0.067569732,0.005263927,,18.409,,,21.15904313,65
+"Congo, Dem. Rep.",COD,2014,40959603,Sub-Saharan Africa (excluding high income),Low income,0.063461331,0.047434493,,,7.275,,31.43996048,24.30425494,42.5
+"Congo, Dem. Rep.",COD,2017,45407203,Sub-Saharan Africa (excluding high income),Low income,0.031702732,0.011903288,,,7.109,,,24.36135884,48.75
+"Congo, Dem. Rep.",COD,2021,51784116,Sub-Saharan Africa (excluding high income),Low income,0.136953751,,,,7,,42.95270157,24.73655367,78.75
+"Congo, Dem. Rep.",COD,2024,57033055,Sub-Saharan Africa (excluding high income),Low income,0.111383031,0.039198049,,,6.219,,,24.98240927,78.75
+"Congo, Rep.",COG,2011,2658255,Sub-Saharan Africa (excluding high income),Lower middle income,0.049558709,0.049558709,,,1.582,,,23.47408069,49.375
+"Congo, Rep.",COG,2014,2849454,Sub-Saharan Africa (excluding high income),Lower middle income,0.041963241,0.049714427,0.036578753,,2.846,,,23.60914536,49.375
+"Congo, Rep.",COG,2017,3026298,Sub-Saharan Africa (excluding high income),Lower middle income,0.102215845,0.08236783,0.032545336,,3.375,,,23.19428255,49.375
+"Congo, Rep.",COG,2021,3350070,Sub-Saharan Africa (excluding high income),Lower middle income,0.068174799,0.032327759,,,2.788,,,23.41962734,49.375
+"Congo, Rep.",COG,2024,3655093,Sub-Saharan Africa (excluding high income),Lower middle income,0.099669998,0.074012509,,,3.388,,,23.47819872,58.125
+Costa Rica,CRI,2011,3423771,Latin America & Caribbean (excluding high income),Upper middle income,0.195410458,0.195410458,0.207587203,0.082188659,28.852,44.58,101.5167923,24.47893005,80
+Costa Rica,CRI,2014,3611461,Latin America & Caribbean (excluding high income),Upper middle income,0.089838818,0.089838818,0.098973974,0.052094001,26.198,43.67,117.0446472,24.67482506,80
+Costa Rica,CRI,2017,3790388,Latin America & Caribbean (excluding high income),Upper middle income,0.145822935,0.145822935,0.147854444,0.065191484,28.416,42.82,125.0539093,24.82617437,80
+Costa Rica,CRI,2021,3990389,Latin America & Caribbean (excluding high income),Upper middle income,0.152537095,0.152537095,0.140456464,0.102747404,23.486,41.97,146.7925262,24.8970487,86.25
+Costa Rica,CRI,2024,4118576,Latin America & Caribbean (excluding high income),Upper middle income,0.062378352,0.062378352,0.064385244,0.033186606,26.032,,,25.28082461,91.875
+Cote d'Ivoire,CIV,2014,13848553,Sub-Saharan Africa (excluding high income),Lower middle income,0.100419069,0.061384755,,,13.183,,34.36256651,24.61187702,
+Cote d'Ivoire,CIV,2017,14983416,Sub-Saharan Africa (excluding high income),Lower middle income,0.110321261,0.095325392,,,16.782,,43.93379016,24.6843141,
+Cote d'Ivoire,CIV,2021,16718735,Sub-Saharan Africa (excluding high income),Lower middle income,0.265652801,0.134681784,,,16.096,,54.41098907,25.01090812,
+Cote d'Ivoire,CIV,2024,18301587,Sub-Saharan Africa (excluding high income),Lower middle income,0.073851948,0.08832737,,,15.38,,64.47850402,25.18385424,
+Croatia,HRV,2011,3638504,High income,High income,0.025384903,0.025384903,-0.046707278,0.0334081,15.309,56.99,101.1062775,24.86487142,93.75
+Croatia,HRV,2014,3606895,High income,High income,-0.034454882,-0.034454882,0.033868589,0.033099244,12.582,54.7,103.976387,24.81112515,93.75
+Croatia,HRV,2017,3508155,High income,High income,0.071411106,0.071411106,0.107681251,0.060506832,12.963,52.99,106.2827682,24.75193684,93.75
+Croatia,HRV,2021,3348534,High income,High income,0.039672083,0.039672083,-0.00290229,0.093062246,13.083,50.13,108.8768997,24.95747092,93.75
+Croatia,HRV,2024,3313982,High income,High income,0.012186257,0.012186257,0.031311277,0.025470178,10.61,,,25.25075743,93.75
+Cyprus,CYP,2011,936237,High income,High income,0.04542434,0.04542434,0.030265174,0.063802404,12.524,52.27,93.532547,24.04258584,88.75
+Cyprus,CYP,2014,991903,High income,High income,-0.002862492,-0.002862492,0.045004524,-0.024786051,11.304,52.7,99.45568848,23.86853466,88.75
+Cyprus,CYP,2017,1039880,High income,High income,-0.026989695,-0.026989695,-0.016982406,0.039364685,10.851,53.35,99.53044891,23.85643433,88.75
+Cyprus,CYP,2021,1094549,High income,High income,0.009207942,0.009207942,0.0304363,0.046434227,13.833,54.04,101.5674362,24.13680812,91.25
+Cyprus,CYP,2024,1129055,High income,High income,-0.037647007,-0.037647007,0.004340607,,10.647,,,24.31599287,96.875
+Czechia,CZE,2011,8965818,High income,High income,0.002894674,0.002894674,0.012371953,0.026011143,18.052,51.22,99.56680298,26.16568355,88.125
+Czechia,CZE,2014,8944904,High income,High income,0.05791256,0.05791256,0.064495163,0.090394189,17.357,52.57,106.4524612,26.07512397,91.25
+Czechia,CZE,2017,8934395,High income,High income,0.049921127,0.049921127,0.075347613,0.091539166,16.291,53.44,102.7512817,26.12594322,91.25
+Czechia,CZE,2021,8985899,High income,High income,0.030398393,0.030398393,0.038780891,0.035675682,16.136,53.68,102.61866,26.3965891,93.75
+Czechia,CZE,2024,9161251,High income,High income,0.053074146,0.053074146,0.046347164,,14.55,,,26.56681025,93.75
+Denmark,DNK,2011,4549535,High income,High income,0.005021004,0.005021004,-0.036508421,0.123133194,9.056,58.91,122.8757324,26.56390749,97.5
+Denmark,DNK,2014,4641892,High income,High income,0,0,-0.004069725,0.109835872,8.596,57.26,134.7441254,26.58973389,100
+Denmark,DNK,2017,4767144,High income,High income,-0.001670341,-0.001670341,0.00626365,0.131365865,8.267,55.9,130.848114,26.52840081,100
+Denmark,DNK,2021,4880509,High income,High income,0,0,0.001708071,0.085875689,9.101,54.9,131.3647614,26.73453301,100
+Denmark,DNK,2024,5003352,High income,High income,0.010800569,0.010800569,0.002018439,,7.983,,,26.78472276,100
+Djibouti,DJI,2011,591971,Middle East & North Africa (excluding high income),Lower middle income,0.078629219,0.078629219,,,32.199,46.69,,20.93768706,62.5
+Dominican Republic,DOM,2011,6788648,Latin America & Caribbean (excluding high income),Upper middle income,0.018051582,0.018051582,0.012974598,-0.027566764,29.303,55.72,82.17548154,24.78281641,78.125
+Dominican Republic,DOM,2014,7152325,Latin America & Caribbean (excluding high income),Upper middle income,-0.037576624,-0.036949391,0.025103437,-0.005965276,28.663,54.84,84.16164536,24.9281723,78.125
+Dominican Republic,DOM,2017,7508555,Latin America & Caribbean (excluding high income),Upper middle income,0.042130336,0.028759408,0.079428092,0.044129534,27.057,53.87,83.26634151,25.09360285,83.75
+Dominican Republic,DOM,2021,7960918,Latin America & Caribbean (excluding high income),Upper middle income,0.047348643,0.040486108,0.058918119,0.014787901,24.574,52.64,79.24218019,25.27557012,86.25
+Dominican Republic,DOM,2024,8281568,Latin America & Caribbean (excluding high income),Upper middle income,0.068043652,0.059529297,0.120567729,0.122542944,23.592,,80.52453857,25.5435474,86.25
+Ecuador,ECU,2011,10352753,Latin America & Caribbean (excluding high income),Upper middle income,0.073043571,0.073043571,0.09862484,0.049966769,29.747,48.1,97.65522003,25.09254466,84.375
+Ecuador,ECU,2014,11054660,Latin America & Caribbean (excluding high income),Upper middle income,0.110456303,0.110456303,0.132993462,,30.164,47.24,104.5733566,25.35799483,84.375
+Ecuador,ECU,2017,11800828,Latin America & Caribbean (excluding high income),Upper middle income,0.176297268,0.177122337,0.170207024,,24.184,46.45,97.47456557,25.36765674,89.375
+Ecuador,ECU,2021,12914981,Latin America & Caribbean (excluding high income),Upper middle income,0.126418063,0.126418063,0.173246104,0.10861906,24.258,45.48,95.88180691,25.39609467,89.375
+Ecuador,ECU,2024,13484219,Latin America & Caribbean (excluding high income),Upper middle income,0.02085885,0.015114563,0.065184362,0.060239708,24.137,,,25.55157957,89.375
+"Egypt, Arab Rep.",EGY,2014,63009609,Middle East & North Africa (excluding high income),Lower middle income,0.094543789,0.087814692,,,49.695,,73.20014484,26.44685094,38.75
+"Egypt, Arab Rep.",EGY,2017,66961302,Middle East & North Africa (excluding high income),Lower middle income,0.116590563,0.102233018,0.085201932,,45.397,,75.30948216,26.23669458,45
+"Egypt, Arab Rep.",EGY,2021,72722825,Middle East & North Africa (excluding high income),Lower middle income,0.063737643,0.061567986,0.061946719,,54.633,,80.34919276,26.77535501,45
+"Egypt, Arab Rep.",EGY,2024,77385958,Middle East & North Africa (excluding high income),Lower middle income,0.057367511,-0.018560038,-0.00512227,,54.858,,83.92168144,26.68684518,50.625
+El Salvador,SLV,2011,4126198,Latin America & Caribbean (excluding high income),Lower middle income,0.074835822,0.074835822,0.050429178,,30.577,51.21,70.25412522,23.73308739,83.75
+El Salvador,SLV,2014,4304307,Latin America & Caribbean (excluding high income),Lower middle income,0.099640975,0.10927814,0.096801362,,28.973,50.47,72.73855379,23.84092676,83.75
+El Salvador,SLV,2017,4464670,Latin America & Caribbean (excluding high income),Lower middle income,0.131971821,0.127967289,0.130691534,,30.054,50.21,66.92120756,23.94130892,88.75
+El Salvador,SLV,2021,4592875,Latin America & Caribbean (excluding high income),Lower middle income,0.155646739,0.17743178,0.101221507,,30.26,50.66,67.74091825,24.09204815,88.75
+El Salvador,SLV,2024,4718943,Latin America & Caribbean (excluding high income),Lower middle income,0.202565923,0.204871831,0.190529763,,30.157,,61.12953841,24.28898734,88.75
+Estonia,EST,2011,1128611,High income,High income,-0.009745621,-0.009745621,-0.016659884,0.005208208,12.325,51.54,111.4140396,23.87188724,91.25
+Estonia,EST,2014,1110561,High income,High income,0.004541486,0.004541486,-0.010662512,-0.039475611,14.253,53.08,107.7612534,24.02116313,91.25
+Estonia,EST,2017,1103273,High income,High income,-0.008285195,-0.008285195,-0.028943079,0.043186303,13.512,53.95,114.6328812,24.03634075,91.25
+Estonia,EST,2021,1110971,High income,High income,-0.004759726,-0.004759726,-0.018596566,0.062464252,11.595,54.11,115.2175903,24.33969725,97.5
+Estonia,EST,2024,1151475,High income,High income,-0.018380794,-0.018380794,-0.017336119,,9.618,,,24.47898419,97.5
+Eswatini,SWZ,2011,680317,Sub-Saharan Africa (excluding high income),Lower middle income,0.023219956,0.023219956,0.002227079,0.017921638,11.443,41.22,64.79753876,22.29613907,38.75
+Eswatini,SWZ,2021,779017,Sub-Saharan Africa (excluding high income),Lower middle income,-0.068538592,0.070116786,0.065308503,,5.933,36.93,,22.28889985,46.25
+Eswatini,SWZ,2024,816208,Sub-Saharan Africa (excluding high income),Lower middle income,-0.005413842,0.034646404,0.05951327,,4.797,,,22.31084329,46.25
+Ethiopia,ETH,2014,55109169,Sub-Saharan Africa (excluding high income),Low income,0.016180249,0.016180249,,,14.909,64.9,,24.74166895,71.875
+Ethiopia,ETH,2017,61575604,Sub-Saharan Africa (excluding high income),Low income,0.118684451,0.118684451,,,17.49,65.68,,25.12718709,71.875
+Ethiopia,ETH,2021,70814574,Sub-Saharan Africa (excluding high income),Low income,0.159454258,0.167840947,0.112908884,,21.577,66.89,,25.43279604,80
+Ethiopia,ETH,2024,78031387,Sub-Saharan Africa (excluding high income),Low income,0.149105961,0.141668037,0.136445813,,21.014,,,25.56745292,80
+Finland,FIN,2011,4475337,High income,High income,-0.003586609,-0.003586609,0.068115697,0.069433322,8.372,58.16,111.7331924,26.34003693,97.5
+Finland,FIN,2014,4545771,High income,High income,0,0,0.01676697,0.00086452,7.052,57.94,154.4115753,26.33273763,97.5
+Finland,FIN,2017,4600229,High income,High income,0.004137267,0.004137267,0.009160848,0.00078716,7.433,57.79,161.3395538,26.2606001,97.5
+Finland,FIN,2021,4663598,High income,High income,0.009214917,0.009214917,-0.019685514,-0.067950607,7.821,57.43,150.9881134,26.4068456,97.5
+Finland,FIN,2024,4749954,High income,High income,0.003108759,0.003108759,-0.001450608,,5.683,,,26.42704831,97.5
+France,FRA,2011,52976120,High income,High income,0.0091666,0.0091666,-0.098058917,0.106999969,10.522,57.89,107.0882797,28.68533315,97.5
+France,FRA,2014,53825137,High income,High income,0.023213351,0.023213351,0.061613305,0.132225265,9.949,56.95,104.2235565,28.68184274,97.5
+France,FRA,2017,54658275,High income,High income,0.056916966,0.056916966,0.036973217,-0.002281448,9.696,55.8,104.1591873,28.58267899,97.5
+France,FRA,2021,55812045,High income,High income,-0.015769532,-0.015769532,0.008196077,0.047588659,8.259,54.52,104.6481628,28.71958307,100
+France,FRA,2024,56825584,High income,High income,-0.013592335,-0.013592335,-0.017870435,,7.889,,,28.78159314,100
+Gabon,GAB,2011,1077711,Sub-Saharan Africa (excluding high income),Upper middle income,0.035882472,0.035882472,,,17.725,51.41,,23.62525363,51.25
+Gabon,GAB,2014,1209169,Sub-Saharan Africa (excluding high income),Upper middle income,0.046792206,0.042291559,0.019321793,,17.54,50.64,,23.62490537,51.25
+Gabon,GAB,2017,1332068,Sub-Saharan Africa (excluding high income),Upper middle income,0.100982197,0.085041512,0.084444823,,17.992,49.71,,23.42660412,51.25
+Gabon,GAB,2021,1467427,Sub-Saharan Africa (excluding high income),Upper middle income,0.10177052,0.149597681,0.101786025,,17.179,48.11,,23.69085247,57.5
+Gabon,GAB,2024,1573811,Sub-Saharan Africa (excluding high income),Upper middle income,0.086959981,0.11282597,,,18.377,,,23.76143695,95
+"Gambia, The",GMB,2017,1294272,Sub-Saharan Africa (excluding high income),Low income,0.079289218,0.079289218,,,6.681,,,21.13199858,69.375
+"Gambia, The",GMB,2021,1458016,Sub-Saharan Africa (excluding high income),Low income,0.103119478,0.114964542,,,5.509,,116.3727666,21.4234675,69.375
+"Gambia, The",GMB,2024,1598990,Sub-Saharan Africa (excluding high income),Low income,0.068643972,0.07026822,,,4.6,,,21.64256004,69.375
+Georgia,GEO,2011,3084171,Europe & Central Asia (excluding high income),Upper middle income,-0.042758226,-0.042758226,-0.01229996,,22.031,63.73,,23.46251043,79.375
+Georgia,GEO,2014,3020250,Europe & Central Asia (excluding high income),Upper middle income,-0.002108873,-0.002108873,-0.002047027,0.013247892,22.523,64.41,103.984073,23.61174776,79.375
+Georgia,GEO,2017,2987888,Europe & Central Asia (excluding high income),Upper middle income,-0.051204723,-0.051204723,-0.034119726,0.053754258,20.642,65.16,106.8437811,23.52499612,79.375
+Georgia,GEO,2021,2940933,Europe & Central Asia (excluding high income),Upper middle income,-0.004575212,-0.004073786,-0.05141906,0.020272147,17.2,65.19,103.4287932,23.65994402,85.625
+Georgia,GEO,2024,2933716,Europe & Central Asia (excluding high income),Upper middle income,-0.053714019,-0.053714019,-0.023243304,0.000459014,17.65,,97.82803781,24.24302051,88.125
+Germany,DEU,2011,70576834,High income,High income,-0.011683107,-0.011683107,0.015969861,0.123443713,12.701,56.7,102.5596924,28.97127154,96.875
+Germany,DEU,2014,69974132,High income,High income,-0.013925497,-0.013925497,-0.024123678,0.074706032,12.13,55.83,100.5561371,29.00978721,96.875
+Germany,DEU,2017,71374479,High income,High income,-0.001203158,-0.001203158,0.011295793,0.10042679,11.257,54.84,98.17710114,28.95544007,96.875
+Germany,DEU,2021,71716499,High income,High income,-0.000480212,-0.000480212,0.014202099,-0.090043268,10.961,54.31,98.05149078,29.10119696,100
+Germany,DEU,2024,71691113,High income,High income,-0.011947998,-0.011947998,-0.060542406,,10.693,,,29.17003656,100
+Ghana,GHA,2011,15512209,Sub-Saharan Africa (excluding high income),Lower middle income,0.047570368,0.047570368,0.061516381,,7.233,58.93,52.09603882,24.39542295,75
+Ghana,GHA,2014,16743744,Sub-Saharan Africa (excluding high income),Lower middle income,0.022939293,0.012870031,,,8.162,57.84,61.25727441,24.72473703,75
+Ghana,GHA,2017,18083712,Sub-Saharan Africa (excluding high income),Lower middle income,0.080682589,0.079336993,0.110160654,,6.854,56.29,64.96475093,24.82401335,75
+Ghana,GHA,2021,20017745,Sub-Saharan Africa (excluding high income),Lower middle income,0.115990299,0.157882237,0.099394985,,3.677,54.01,75.63775709,25.09920152,75
+Ghana,GHA,2024,21563813,Sub-Saharan Africa (excluding high income),Lower middle income,0.06108977,0.151593678,0.121948739,,3.049,,,25.13999927,75
+Greece,GRC,2011,9493929,High income,High income,0.046272071,0.046272071,0.100473103,0.091233035,18.732,56.99,103.3467484,26.36871273,88.125
+Greece,GRC,2014,9357686,High income,High income,0.018674186,0.018674186,0.063761831,0.082288957,16.091,56.49,100.4584885,26.17858695,97.5
+Greece,GRC,2017,9220190,High income,High income,0.019116617,0.019116617,0.107609903,0.050575944,15.05,55.52,101.8635101,26.0215832,97.5
+Greece,GRC,2021,9182577,High income,High income,0.028942283,0.028942283,0.066261269,0.071337526,14.738,53.51,103.4547424,26.1077609,97.5
+Greece,GRC,2024,8991800,High income,High income,0.091696175,0.091696175,0.127151903,,14.879,,,26.27234192,100
+Guatemala,GTM,2011,8804525,Latin America & Caribbean (excluding high income),Upper middle income,0.143048514,0.143048514,0.124248675,,43.443,57.55,50.79628216,24.57077179,73.75
+Guatemala,GTM,2014,9616393,Latin America & Caribbean (excluding high income),Upper middle income,0.140614941,0.131537082,0.105061808,,42.301,56.87,51.21911751,24.78115651,73.75
+Guatemala,GTM,2017,10430246,Latin America & Caribbean (excluding high income),Upper middle income,0.042706845,0.053558697,0.070544964,,45.411,56.32,52.26521337,24.99511138,73.75
+Guatemala,GTM,2021,11489738,Latin America & Caribbean (excluding high income),Upper middle income,0.055843954,0.059133891,0.042518287,,41.136,55.67,48.14729175,25.1828959,73.75
+Guatemala,GTM,2024,12299923,Latin America & Caribbean (excluding high income),Upper middle income,0.121483151,0.112810384,0.097871157,,40.284,,50.48216093,25.45065366,73.75
+Guinea,GIN,2014,6293415,Sub-Saharan Africa (excluding high income),Low income,,,,,16.63,72.17,30.60220909,22.89556835,46.875
+Guinea,GIN,2017,6873506,Sub-Saharan Africa (excluding high income),Low income,0.075932344,0.022719828,,,19.889,71.16,,23.05780185,59.375
+Guinea,GIN,2021,7735937,Sub-Saharan Africa (excluding high income),Low income,0.12907387,0.059501303,,,21.907,69.75,,23.56053657,73.75
+Guinea,GIN,2024,8464230,Sub-Saharan Africa (excluding high income),Low income,0.096219163,0.023229713,,,21.329,,,23.95542536,73.75
+Haiti,HTI,2011,6250015,Latin America & Caribbean (excluding high income),Lower middle income,0.018906829,0.018906829,,,9.482,54.3,,23.28888774,58.75
+Haiti,HTI,2014,6636287,Latin America & Caribbean (excluding high income),Lower middle income,0.05564573,0.066431473,,,8.52,53.93,,23.44106064,58.75
+Haiti,HTI,2017,7048972,Latin America & Caribbean (excluding high income),Lower middle income,0.053091083,0.021658712,0.042490284,,7.807,53.63,,23.43752056,58.75
+Honduras,HND,2011,5181064,Latin America & Caribbean (excluding high income),Lower middle income,0.113544625,0.113544625,0.073638534,,40.109,56.45,72.80452728,23.59741086,66.875
+Honduras,HND,2014,5672647,Latin America & Caribbean (excluding high income),Lower middle income,0.090564864,0.105151353,0.076750753,,36.293,55.66,53.69110435,23.70675011,75
+Honduras,HND,2017,6185475,Latin America & Caribbean (excluding high income),Lower middle income,0.092901326,0.076855896,0.084653169,,37.193,54.86,54.76235962,23.8646664,75
+Honduras,HND,2021,6863097,Latin America & Caribbean (excluding high income),Lower middle income,0.197064074,0.164784434,0.072496894,,25.937,53.95,60.21244531,24.0606118,75
+Honduras,HND,2024,7345357,Latin America & Caribbean (excluding high income),Lower middle income,0.187060667,0.161301539,0.154468618,,35.435,,56.20560633,24.33670936,75
+"Hong Kong SAR, China",HKG,2011,6165173,High income,High income,-0.0082648,-0.0082648,0.00684347,0.015614379,15.344,,86.52900147,26.24071873,86.875
+"Hong Kong SAR, China",HKG,2014,6342961,High income,High income,-0.002606348,-0.002606348,-0.038547982,0.016271795,14.157,,103.5786164,26.3965891,86.875
+"Hong Kong SAR, China",HKG,2017,6493265,High income,High income,0.012903986,0.012903986,-0.010426467,0.02962478,13.015,,104.08717,26.55514831,89.375
+"Hong Kong SAR, China",HKG,2021,6637356,High income,High income,-0.008569868,-0.008569868,0.014664653,-0.033944116,11.315,,97.53042959,26.63406248,89.375
+"Hong Kong SAR, China",HKG,2024,6729811,High income,High income,0.012433944,0.012433944,0.028920283,,11.154,,105.6438802,26.73207902,91.875
+Hungary,HUN,2011,8529919,High income,High income,-0.008481296,-0.008481296,0.001115493,0.078844886,11.517,49.82,102.0062485,25.67909289,81.25
+Hungary,HUN,2014,8464202,High income,High income,-0.00518184,-0.00518184,0.031316512,0.00667824,13.031,50.97,106.2164688,25.67202573,93.75
+Hungary,HUN,2017,8389859,High income,High income,0.060050427,0.060050427,0.032982553,0.029153386,14.343,51.81,104.3329468,25.68611047,93.75
+Hungary,HUN,2021,8330756,High income,High income,0.028555839,0.028555839,0.060288935,0.029838855,14.592,52.27,99.56378937,25.93275199,93.75
+Hungary,HUN,2024,8202714,High income,High income,0.068319528,0.068319528,0.062977198,,13.987,,,26.13043761,93.75
+Iceland,ISL,2021,297833,High income,High income,0,0,0.001626058,-0.037583458,8.329,49.25,112.9996109,23.97249003,100
+Iceland,ISL,2024,322325,High income,High income,0.00295456,0.00295456,-0.003234412,,8.562,,,24.23370045,100
+India,IND,2011,853745004,South Asia (excluding high income),Lower middle income,0.172465733,0.172465733,,,51.648,73.65,64.62439728,28.22985762,66.25
+India,IND,2014,907853291,South Asia (excluding high income),Lower middle income,0.196307564,0.198278568,0.209065393,,51.747,73.19,74.75399017,28.34397092,66.25
+India,IND,2017,962463650,South Asia (excluding high income),Lower middle income,0.06369363,0.063001865,0.204281782,,50.748,72.67,74.22363281,28.60558076,66.25
+India,IND,2021,1033092817,South Asia (excluding high income),Lower middle income,-0.000453803,-0.003167914,0.154454755,,48.24,72.18,78.6777288,28.7847527,74.375
+India,IND,2024,1077731602,South Asia (excluding high income),Lower middle income,-0.004429856,-0.00853498,0.154309528,,44.281,,78.71826861,28.99455849,74.375
+Indonesia,IDN,2011,177530453,East Asia & Pacific (excluding high income),Lower middle income,0.007597026,0.007597026,0.020632971,,31.985,71.23,78.83477783,27.51785242,64.375
+Indonesia,IDN,2014,185894322,East Asia & Pacific (excluding high income),Lower middle income,-0.028461072,-0.026256395,-0.010713905,,32.079,71.04,83.3549901,27.51561026,64.375
+Indonesia,IDN,2017,193777030,East Asia & Pacific (excluding high income),Lower middle income,-0.051092016,-0.056165915,-0.033462548,,29.585,70.96,91.84763489,27.65082374,64.375
+Indonesia,IDN,2021,203818030,East Asia & Pacific (excluding high income),Lower middle income,-0.011230044,-0.023841178,-0.027783832,,27.672,70.53,98.30411724,27.80497442,64.375
+Indonesia,IDN,2024,211076339,East Asia & Pacific (excluding high income),Lower middle income,-0.033920333,-0.029665294,-0.024995433,,28.837,,98.66917075,27.96749335,70.625
+"Iran, Islamic Rep.",IRN,2011,59270231,Middle East & North Africa (excluding high income),Lower middle income,0.232909388,0.232909388,0.240136931,0.075644212,53.108,,79.69593811,27.16739709,28.75
+"Iran, Islamic Rep.",IRN,2014,61676328,Middle East & North Africa (excluding high income),Lower middle income,0.098157651,0.100279803,0.221974482,-0.023081908,54.88,,80.56909943,26.85883073,28.75
+"Iran, Islamic Rep.",IRN,2017,63892824,Middle East & North Africa (excluding high income),Lower middle income,0.048405059,0.04141118,0.156549026,,52.916,,81.72380066,26.91562833,31.25
+"Iran, Islamic Rep.",IRN,2021,66867932,Middle East & North Africa (excluding high income),Lower middle income,0.097562812,0.104888584,0.139551734,,55.128,,,26.67130083,31.25
+"Iran, Islamic Rep.",IRN,2024,69914781,Middle East & North Africa (excluding high income),Lower middle income,0.085373877,0.085373877,0.082626479,0.008790592,52.879,,,26.80319903,31.25
+Iraq,IRQ,2011,18241367,Middle East & North Africa (excluding high income),Upper middle income,0.059298173,0.059298173,,,59.651,61.59,,25.94901251,33.125
+Iraq,IRQ,2014,20884823,Middle East & North Africa (excluding high income),Upper middle income,0.071314575,0.071314575,,,59.496,62.69,,26.15261147,33.125
+Iraq,IRQ,2017,23052127,Middle East & North Africa (excluding high income),Upper middle income,0.063167515,0.035710871,,,62.082,63.9,,25.95437445,45
+Iraq,IRQ,2021,25903954,Middle East & North Africa (excluding high income),Upper middle income,0.073237285,0.042265644,,,58.194,65.38,,26.07037337,45
+Iraq,IRQ,2024,28355455,Middle East & North Africa (excluding high income),Upper middle income,0.2196838,0.196461208,0.181230056,0.103926944,61.163,,,26.35805544,48.125
+Ireland,IRL,2011,3598499,High income,High income,0.035421198,0.035421198,-0.051825033,0.010508622,14.232,49.72,118.0788879,26.20806277,95
+Ireland,IRL,2014,3629630,High income,High income,-0.001173865,-0.001173865,-0.008233056,0.038357513,13.909,49.67,118.2979279,26.3105145,95
+Ireland,IRL,2017,3749429,High income,High income,0.000683633,0.000683633,0.004073413,0.026401661,12.901,48.87,124.2928772,26.57833776,95
+Ireland,IRL,2021,3983258,High income,High income,0.002617752,0.002617752,-0.007536505,-0.079429421,11.516,47.51,141.5817108,26.99802786,100
+Ireland,IRL,2024,4298252,High income,High income,0.027210193,0.027210193,0.039150224,,10.32,,,27.0811081,100
+Israel,ISR,2011,5491153,High income,High income,-0.040339364,-0.040339364,,-0.007399427,12.11,52.88,97.06208801,26.31425282,77.5
+Israel,ISR,2014,5787501,High income,High income,-0.001307986,-0.001307986,0.082775214,0.003265982,11.201,52.34,96.85913849,26.47583848,80.625
+Israel,ISR,2017,6131598,High income,High income,-0.018055311,-0.018055311,-0.002453436,0.026703295,10.642,51.63,96.81472778,26.60379882,80.625
+Israel,ISR,2021,6631697,High income,High income,0.020332592,0.020332592,0.019799986,-0.017658581,7.377,50.43,97.38910675,26.91767123,80.625
+Israel,ISR,2024,7062352,High income,High income,0.02375818,0.02375818,0.042117259,,6.111,,,27.01483498,80.625
+Italy,ITA,2011,50957209,High income,High income,0.147858512,0.147858512,0.144493299,0.169270124,20.471,56.53,101.0195923,28.46826864,89.375
+Italy,ITA,2014,51850742,High income,High income,0.087097425,0.087097425,0.215965013,0.189121265,18.709,55.66,100.5332794,28.40574828,91.875
+Italy,ITA,2017,52409524,High income,High income,0.04511023,0.04511023,0.132976196,0.176955085,18.494,54.51,100.2852936,28.30905466,94.375
+Italy,ITA,2021,51815239,High income,High income,0.00391808,0.00391808,0.028990818,-0.035223584,17.672,52.83,101.2457123,28.41034599,97.5
+Italy,ITA,2024,51829051,High income,High income,0.128392019,0.128392019,0.152981923,,17.35,,,28.49391107,97.5
+Jamaica,JAM,2011,2007871,Latin America & Caribbean (excluding high income),Upper middle income,0.079509187,0.079509187,0.065709371,,16.627,36.29,94.70088196,23.39359074,61.875
+Jamaica,JAM,2014,2096466,Latin America & Caribbean (excluding high income),Upper middle income,0.014344231,0.016525199,0.053670236,0.096075185,16.429,35.83,89.16112729,23.35509839,61.875
+Jamaica,JAM,2021,2248537,Latin America & Caribbean (excluding high income),Upper middle income,0.035523584,0.022707622,0.098846417,-0.021023944,14.847,35.28,86.62203776,23.40822386,68.125
+Japan,JPN,2011,110945852,High income,High income,-0.008733119,-0.008733119,-0.002962491,0.026470303,22.996,53.77,,29.46039745,76.25
+Japan,JPN,2014,110762343,High income,High income,-0.007789166,-0.007789166,-0.06122923,-0.10062356,21.166,52.85,101.9906693,29.22025632,78.75
+Japan,JPN,2017,110907804,High income,High income,0.003926822,0.003926822,-0.039178881,-0.024119991,19.406,51.57,102.1241226,29.2263601,78.75
+Japan,JPN,2021,110830955,High income,High income,-0.007260122,-0.007260122,-0.004503785,-0.003900135,17.754,49.34,102.3170395,29.2484272,78.75
+Japan,JPN,2024,110011344,High income,High income,-0.004099744,-0.004099744,-0.000250006,,16.29,,,29.02478749,78.75
+Jordan,JOR,2011,4670454,Middle East & North Africa (excluding high income),Upper middle income,0.163127216,0.163127216,0.084210788,,47.196,55.42,90.56578064,24.10847438,31.875
+Jordan,JOR,2014,5205320,Middle East & North Africa (excluding high income),Upper middle income,0.177849877,0.177849877,0.162331293,,45.916,55.56,91.98264538,24.33005751,31.875
+Jordan,JOR,2017,6558247,Middle East & North Africa (excluding high income),Upper middle income,0.29667888,0.28901426,0.281212133,,45.012,55.91,91.51370356,24.45156877,31.875
+Jordan,JOR,2021,7296924,Middle East & North Africa (excluding high income),Upper middle income,0.245388804,0.214296924,0.199697207,,47.416,55.97,92.84402732,24.55832356,46.875
+Jordan,JOR,2024,7867178,Middle East & North Africa (excluding high income),Upper middle income,0.196962114,0.162201959,0.145094059,,47.252,,92.9268253,24.70018273,59.375
+Kazakhstan,KAZ,2011,12564991,Europe & Central Asia (excluding high income),Upper middle income,-0.035047724,-0.035047724,-0.039968867,,9.924,63.52,97.73605631,25.98595603,72.5
+Kazakhstan,KAZ,2014,12875804,Europe & Central Asia (excluding high income),Upper middle income,-0.035830192,-0.035830192,-0.00580132,0.014122479,9.814,64.75,98.88253408,26.12142854,72.5
+Kazakhstan,KAZ,2017,13196334,Europe & Central Asia (excluding high income),Upper middle income,-0.0339129,-0.0339129,0.031056545,0.046589126,10.053,65.14,96.69593284,25.84125965,69.375
+Kazakhstan,KAZ,2021,13791287,Europe & Central Asia (excluding high income),Upper middle income,-0.053404853,-0.053404853,-0.046252342,0.041087378,9.8,63.82,93.92231877,26.00646957,69.375
+Kazakhstan,KAZ,2024,14324777,Europe & Central Asia (excluding high income),Upper middle income,0.027582273,0.048807551,0.026167838,0.038948651,9.919,,96.74451966,26.38622632,75.625
+Kenya,KEN,2011,23450849,Sub-Saharan Africa (excluding high income),Lower middle income,0.06466836,0.06466836,0.094776252,,5.462,56.83,,24.57063241,75.625
+Kenya,KEN,2014,25714887,Sub-Saharan Africa (excluding high income),Lower middle income,0.07523424,0.06979511,0.031458733,,5.809,56.06,,24.94696762,78.75
+Kenya,KEN,2017,28150345,Sub-Saharan Africa (excluding high income),Lower middle income,0.080897301,0.185309877,0.149667062,,7.318,55.03,,25.13043024,83.75
+Kenya,KEN,2021,31704189,Sub-Saharan Africa (excluding high income),Lower middle income,0.078875625,0.119303591,0.09694235,,9.708,53.57,79.6603134,25.4237462,83.75
+Kenya,KEN,2024,34616135,Sub-Saharan Africa (excluding high income),Lower middle income,0.073739746,0.23236149,0.104617587,,9.236,,,25.5435474,83.75
+"Korea, Rep.",KOR,2011,41432826,High income,High income,-0.001252908,-0.001252908,0.046800894,-0.062138603,21.145,,97.46173859,27.85416467,85
+"Korea, Rep.",KOR,2014,43035419,High income,High income,0.020112313,0.020112313,0.018097098,-0.06465381,20.87,,98.35305786,28.0230632,85
+"Korea, Rep.",KOR,2017,44377468,High income,High income,0.003325876,0.003325876,-0.003708054,-0.075645025,19.737,,98.77144623,28.11344727,85
+"Korea, Rep.",KOR,2021,45556455,High income,High income,-0.000215401,-0.000215401,0.029001595,0.028208643,17.904,,97.76450348,28.22985762,85
+"Korea, Rep.",KOR,2024,46039322,High income,High income,-0.004923939,-0.00365494,0.043251116,,16.443,,,28.16751449,88.125
+Kosovo,XKX,2011,1287712,Europe & Central Asia (excluding high income),Upper middle income,0.258144129,0.258144129,0.214800142,,,,,22.57039909,86.875
+Kosovo,XKX,2014,1334099,Europe & Central Asia (excluding high income),Upper middle income,0.231173692,0.231173692,0.208344833,0.058766981,,,,22.67974773,91.875
+Kosovo,XKX,2017,1328163,Europe & Central Asia (excluding high income),Upper middle income,0.174295831,0.174295831,0.216709358,0.073806495,,,,22.69467172,91.875
+Kosovo,XKX,2021,1385580,Europe & Central Asia (excluding high income),Upper middle income,0.215091175,0.215091175,0.190564816,0.109493064,,,,22.96540044,91.875
+Kosovo,XKX,2024,1382360,Europe & Central Asia (excluding high income),Upper middle income,0.089642002,0.089642002,0.127340962,0.068578358,,,,23.13457997,91.875
+Kuwait,KWT,2011,2266476,High income,High income,0.130942329,0.130942329,0.15647279,0.084609938,36.843,59.54,98.81082916,25.76021844,29.375
+Kuwait,KWT,2014,2736473,High income,High income,0.15303405,0.15303405,0.121227534,0.120387154,37.396,60.61,96.99017334,25.81701604,29.375
+Kuwait,KWT,2017,3138850,High income,High income,0.098435118,0.098435118,0.093176176,0.06528171,37.823,60.66,,25.51905638,29.375
+Kuwait,KWT,2024,3950546,High income,High income,0.045679491,0.045679491,0.020098173,,39.839,,,25.79843965,38.125
+Kyrgyz Republic,KGZ,2014,3978542,Europe & Central Asia (excluding high income),Lower middle income,-0.009799603,-0.009799603,,,21.012,,89.51270327,22.73390678,76.875
+Kyrgyz Republic,KGZ,2017,4195979,Europe & Central Asia (excluding high income),Lower middle income,0.023130571,0.006996898,-0.001174079,,25.005,,89.74826533,22.7648677,76.875
+Kyrgyz Republic,KGZ,2021,4515230,Europe & Central Asia (excluding high income),Lower middle income,0.027801156,0.032753809,0.006004559,,25.554,,93.19613185,22.94779576,76.875
+Kyrgyz Republic,KGZ,2024,4780143,Europe & Central Asia (excluding high income),Lower middle income,0.021430191,0.000593813,-0.056185188,,25.682,,92.52324157,23.58422364,76.875
+Lao PDR,LAO,2011,4035423,East Asia & Pacific (excluding high income),Lower middle income,0.012790264,0.012790264,,,7.798,,42.42169048,22.89233149,83.125
+Lao PDR,LAO,2017,4638548,East Asia & Pacific (excluding high income),Lower middle income,-0.057583208,-0.057583208,-0.017741687,,7.522,,63.54691207,23.56065606,85
+Lao PDR,LAO,2021,5024510,East Asia & Pacific (excluding high income),Lower middle income,-0.01100988,-0.01100988,0.021124215,,8.439,,58.38346915,23.65856574,85.625
+Lao PDR,LAO,2024,5322750,East Asia & Pacific (excluding high income),Lower middle income,-0.118765235,-0.120332786,-0.166790267,,9.269,,50.99772171,23.52680397,85.625
+Latvia,LVA,2011,1800178,High income,High income,-0.053049184,-0.053049184,-0.021065272,-0.032742874,12.475,50.77,103.9788666,24.00325738,97.5
+Latvia,LVA,2014,1719348,High income,High income,0.001032592,0.001032592,0.042402934,0.037251137,13.214,50.79,112.1997299,24.13366092,97.5
+Latvia,LVA,2017,1657658,High income,High income,0.015360737,0.015360737,0.015692856,-0.013822503,12.738,50.57,110.1625214,24.10395638,100
+Latvia,LVA,2021,1596418,High income,High income,-0.020416457,-0.020416457,-0.029866244,0.048447716,13.067,49.56,106.5402832,24.36566479,100
+Latvia,LVA,2024,1582835,High income,High income,-0.009676668,-0.009676668,-0.006630641,,12.251,,,24.49650422,100
+Lebanon,LBN,2011,3709897,Middle East & North Africa (excluding high income),Lower middle income,0.23496326,0.23496326,0.171102064,0.149585622,44.101,54.06,78.09645688,24.41032178,50
+Lebanon,LBN,2014,4265657,Middle East & North Africa (excluding high income),Lower middle income,0.294971337,0.294971337,0.275047396,0.082628561,42.864,53.93,62.10518423,24.5964485,50
+Lebanon,LBN,2017,4654352,Middle East & North Africa (excluding high income),Lower middle income,0.237844119,0.237844119,0.185570653,0.071176985,41.839,53.35,66.12012819,24.69407989,52.5
+Lebanon,LBN,2021,4108774,Middle East & North Africa (excluding high income),Lower middle income,0.080622192,0.080622192,0.085157586,,38.243,51.65,71.17741218,23.86448025,52.5
+Lebanon,LBN,2024,4231057,Middle East & North Africa (excluding high income),Lower middle income,0.156855033,0.140384359,0.080854749,,38.4,,67.54498291,23.72292142,58.75
+Lesotho,LSO,2011,1266790,Sub-Saharan Africa (excluding high income),Lower middle income,0.03375829,0.03375829,0.021422094,,15.967,52.17,65.86303711,21.67082638,78.125
+Lesotho,LSO,2017,1350411,Sub-Saharan Africa (excluding high income),Lower middle income,-0.018558769,0.006502016,-0.008633043,,17.8,49.4,68.13875186,21.55910183,78.125
+Lesotho,LSO,2021,1434393,Sub-Saharan Africa (excluding high income),Lower middle income,0.02685893,0.04678172,0.028434919,,17.838,46.92,,21.60377602,78.125
+Lesotho,LSO,2024,1504222,Sub-Saharan Africa (excluding high income),Lower middle income,0.024893408,0.102273082,0.088791636,,18.984,,,21.54372467,80.625
+Liberia,LBR,2011,2309936,Sub-Saharan Africa (excluding high income),Low income,0.083084051,0.083084051,,,10.48,56.67,38.80598831,21.59790089,63.75
+Liberia,LBR,2017,2745577,Sub-Saharan Africa (excluding high income),Low income,0.154933943,0.152989753,,,10.008,53.29,,21.94430323,78.75
+Liberia,LBR,2021,3018782,Sub-Saharan Africa (excluding high income),Low income,0.151442477,0.190832013,,,9.349,50.76,,21.9797503,81.25
+Liberia,LBR,2024,3295997,Sub-Saharan Africa (excluding high income),Low income,0.11851681,0.096817287,,,9.592,,,22.28141045,81.25
+Libya,LBY,2017,4585159,Middle East & North Africa (excluding high income),Upper middle income,0.110673807,0.110673807,0.02812269,0.102349651,30.089,41.39,,24.93030573,50
+Libya,LBY,2024,5262910,Middle East & North Africa (excluding high income),Upper middle income,0.167246579,0.167246579,0.140577235,,30.416,,,24.56564459,50
+Lithuania,LTU,2011,2635099,High income,High income,-0.050577708,-0.050577708,0.002354748,0.034941832,10.414,53.94,104.5554504,24.48879383,91.25
+Lithuania,LTU,2014,2524428,High income,High income,0.000626722,0.000626722,-0.019701821,0.031714648,11.205,53.45,100.1411896,24.60083293,93.75
+Lithuania,LTU,2017,2445393,High income,High income,0.041080162,0.041080162,-0.005368497,0.00585122,10.595,53.49,100.8872223,24.58938656,93.75
+Lithuania,LTU,2021,2372426,High income,High income,0.06616846,0.06616846,0.083553583,0.029683961,10.667,53.1,107.6621017,24.92851533,93.75
+Lithuania,LTU,2024,2444088,High income,High income,0.012485642,0.012485642,0.027978625,,10.666,,,25.16437727,93.75
+Luxembourg,LUX,2011,417441,High income,High income,-0.015768467,-0.015768467,-0.029551859,-0.02304901,14.927,54.45,101.8199081,24.8454895,95
+Luxembourg,LUX,2014,451457,High income,High income,-0.010547514,-0.010547514,0.018107071,0.018449486,13.578,53.04,105.4329376,24.95453952,97.5
+Luxembourg,LUX,2017,486845,High income,High income,0.0116951,0.0116951,0.023337011,0.0309031,9.254,51.88,108.2305679,24.90855014,100
+Madagascar,MDG,2014,13785487,Sub-Saharan Africa (excluding high income),Low income,,,,,5.508,65.43,35.82715145,23.25082939,60.625
+Madagascar,MDG,2017,15245537,Sub-Saharan Africa (excluding high income),Low income,0.032926687,,,,5.23,63.93,35.2360569,23.30168663,66.875
+Madagascar,MDG,2021,17259462,Sub-Saharan Africa (excluding high income),Low income,0.022906132,0.036963628,,,4.778,62.25,35.25802223,23.38734548,69.375
+Madagascar,MDG,2024,18851036,Sub-Saharan Africa (excluding high income),Low income,0.086545424,,,,5.056,,,23.58093158,69.375
+Malawi,MWI,2011,7972899,Sub-Saharan Africa (excluding high income),Low income,-0.007105943,-0.007105943,,,9.676,65.74,32.43091587,23.1784126,62.5
+Malawi,MWI,2014,8735190,Sub-Saharan Africa (excluding high income),Low income,0.084885973,0.06500705,0.062733018,,9.33,64.67,37.20845394,22.89816825,75
+Malawi,MWI,2017,9645161,Sub-Saharan Africa (excluding high income),Low income,0.080966217,0.111041164,0.07388153,,8.833,63.43,39.02892518,22.91419775,77.5
+Malawi,MWI,2021,11111253,Sub-Saharan Africa (excluding high income),Low income,0.096126443,0.070329983,,,7.633,61.52,36.1013396,23.23919702,77.5
+Malawi,MWI,2024,12384937,Sub-Saharan Africa (excluding high income),Low income,0.085557058,0.061805147,,,7.949,,,23.12197217,80
+Malaysia,MYS,2011,20649116,East Asia & Pacific (excluding high income),Upper middle income,0.061229061,0.061229061,0.050430089,0.039641841,31.951,57.13,81.94824219,26.42035932,46.875
+Malaysia,MYS,2014,22158615,East Asia & Pacific (excluding high income),Upper middle income,0.049216802,0.049216802,0.052283759,0.089065486,27.66,57.5,88.87425995,26.54631173,50
+Malaysia,MYS,2017,23682698,East Asia & Pacific (excluding high income),Upper middle income,0.054377515,0.057722388,0.119726256,0.091950628,26.413,57.8,83.27140045,26.48845694,50
+Malaysia,MYS,2021,25769271,East Asia & Pacific (excluding high income),Upper middle income,0.017170485,0.01298796,0.012387755,,27.034,58.19,78.5013408,26.64752163,50
+Malaysia,MYS,2024,27297352,East Asia & Pacific (excluding high income),Upper middle income,0.009148878,0.016995661,0.039709377,0.057753997,26.765,,81.53576224,26.76827115,60.625
+Maldives,MDV,2017,342024,South Asia (excluding high income),Upper middle income,0.112872486,0.110738292,0.111239801,0.0677884,31.578,67.43,79.15084308,22.29529805,70.625
+Mali,MLI,2014,9100789,Sub-Saharan Africa (excluding high income),Low income,0.109488238,0.055411375,,,20.797,79.49,35.12660955,23.55314626,54.375
+Mali,MLI,2017,9985747,Sub-Saharan Africa (excluding high income),Low income,0.197456756,0.16939672,,,22.38,79.28,34.44797319,23.63062373,54.375
+Mali,MLI,2021,11438992,Sub-Saharan Africa (excluding high income),Low income,0.047161736,0.003146743,0.034314768,,21.61,78.71,,23.85872724,63.75
+Mali,MLI,2024,12725942,Sub-Saharan Africa (excluding high income),Low income,0.185806832,0.085876902,0.061221593,,22.294,,,24.00372837,63.75
+Malta,MLT,2011,351508,High income,High income,0.024983383,0.024983383,0.034793086,0.100912207,31.617,48.88,94.67694092,23.00456209,77.5
+Malta,MLT,2014,364279,High income,High income,0.014746408,0.014746408,0.0333097,0.149362208,25.43,49.34,97.9214325,23.19879809,82.5
+Malta,MLT,2017,390899,High income,High income,0.00811377,0.00811377,-0.001644978,0.072373566,22.497,50.35,102.4215088,23.37378344,88.75
+Malta,MLT,2021,446624,High income,High income,0.022391921,0.022391921,0.035573026,0.078593684,18.17,52,103.6113815,23.70507987,88.75
+Malta,MLT,2024,480050,High income,High income,0.00978929,0.00978929,0.024773409,,16.192,,,23.9146474,91.25
+Mauritania,MRT,2011,1903527,Sub-Saharan Africa (excluding high income),Lower middle income,0.112158442,0.112158442,,,34.066,65.16,20.12224007,22.63497307,41.875
+Mauritania,MRT,2014,2084692,Sub-Saharan Africa (excluding high income),Lower middle income,0.038452439,0.033542196,0.034313532,,32.893,65.57,28.03964853,22.60920421,41.875
+Mauritania,MRT,2017,2278505,Sub-Saharan Africa (excluding high income),Lower middle income,0.107986502,0.109540478,,,31.292,65.88,30.7430805,22.64020843,48.125
+Mauritania,MRT,2021,2584547,Sub-Saharan Africa (excluding high income),Lower middle income,0.155061892,0.152994975,,,30.486,66.1,,22.94491593,48.125
+Mauritania,MRT,2024,2860979,Sub-Saharan Africa (excluding high income),Lower middle income,0.055857628,0.055857628,-0.006356019,,30.779,,,23.09972683,48.125
+Mauritius,MUS,2011,986634,Sub-Saharan Africa (excluding high income),Upper middle income,0.110829026,0.110829026,0.185486107,0.127917751,31.634,58,90.42357635,23.16721276,83.75
+Mauritius,MUS,2014,1010413,Sub-Saharan Africa (excluding high income),Upper middle income,0.045875518,0.045875518,0.133268282,0.121709413,29.476,56.23,97.91719132,23.2939013,83.75
+Mauritius,MUS,2017,1031251,Sub-Saharan Africa (excluding high income),Upper middle income,0.05593023,0.05857832,0.120808886,0.133977451,28.237,54.38,95.62649353,23.34164703,89.375
+Mauritius,MUS,2021,1058961,Sub-Saharan Africa (excluding high income),Upper middle income,0.023352559,0.014124954,0.049041185,0.069097609,23.995,52.07,,23.16425098,89.375
+Mauritius,MUS,2024,1070318,Sub-Saharan Africa (excluding high income),Upper middle income,0.043404345,0.041784146,0.099770274,0.107169499,25.662,,93.38694609,23.42814805,89.375
+Mexico,MEX,2011,79795751,Latin America & Caribbean (excluding high income),Upper middle income,0.11226213,0.11226213,0.116130294,0.078534132,35.614,57.9,91.53067017,27.83803529,77.5
+Mexico,MEX,2014,84399247,Latin America & Caribbean (excluding high income),Upper middle income,0.005018918,-0.003065352,0.031544335,0.073527298,35.246,56.78,100.2760773,27.93850582,85.625
+Mexico,MEX,2017,88534114,Latin America & Caribbean (excluding high income),Upper middle income,0.067156667,0.04928155,0.074969895,,34.61,55.57,109.0833893,27.80497442,88.75
+Mexico,MEX,2021,93851214,Latin America & Caribbean (excluding high income),Upper middle income,0.139672281,0.149379569,0.160576277,0.073597662,32.058,53.89,103.9725266,27.90865285,88.75
+Mexico,MEX,2024,97411242,Latin America & Caribbean (excluding high income),Upper middle income,0.117370634,0.106112548,0.145854711,0.106582385,30.056,,,28.24620676,88.75
+Moldova,MDA,2011,2361620,Europe & Central Asia (excluding high income),Upper middle income,0.019229863,0.019229863,0.012375189,,0.065,,88.66705886,22.85320466,78.75
+Moldova,MDA,2014,2361002,Europe & Central Asia (excluding high income),Upper middle income,-0.025763602,-0.025763602,-0.030228147,,0.127,,105.1298384,22.96419786,81.875
+Moldova,MDA,2017,2278507,Europe & Central Asia (excluding high income),Upper middle income,-0.016106457,-0.016106457,-0.069109744,0.031906031,1.987,,94.10812755,22.9760727,81.875
+Moldova,MDA,2021,2108305,Europe & Central Asia (excluding high income),Upper middle income,0.027794203,0.027794203,0.014982023,,4.113,,96.21820411,23.34006801,87.5
+Moldova,MDA,2024,1966418,Europe & Central Asia (excluding high income),Upper middle income,0.021429711,0.021429711,0.06038986,,1.62,,99.32013006,23.62470616,90.625
+Mongolia,MNG,2011,1973485,East Asia & Pacific (excluding high income),Lower middle income,-0.095231533,-0.095231533,-0.089851912,,12.008,59.71,,23.06601326,70.625
+Mongolia,MNG,2014,2074233,East Asia & Pacific (excluding high income),Lower middle income,-0.029084467,-0.029084467,-0.065882437,,12.469,60.17,,23.22687276,80
+Mongolia,MNG,2017,2155814,East Asia & Pacific (excluding high income),Lower middle income,-0.041413527,-0.041413527,-0.061768176,,13.142,60.55,,23.16394607,80
+Mongolia,MNG,2021,2237019,East Asia & Pacific (excluding high income),Lower middle income,-0.010792464,-0.016881764,-0.054912035,,16.203,59.77,101.7673684,23.45023211,85
+Mongolia,MNG,2024,2344987,East Asia & Pacific (excluding high income),Lower middle income,-0.014652915,-0.015934722,-0.052779885,,15.387,,,23.88392152,90.625
+Montenegro,MNE,2011,500343,Europe & Central Asia (excluding high income),Upper middle income,0.032222884,0.032222884,0.034108489,0.039922606,14.067,58.64,93.35681152,22.2371678,67.5
+Montenegro,MNE,2014,504976,Europe & Central Asia (excluding high income),Upper middle income,0.039861641,0.039861641,0.051052638,0.048186021,13.962,58.07,,22.24798501,78.75
+Montenegro,MNE,2017,506847,Europe & Central Asia (excluding high income),Upper middle income,0.016146254,0.016146254,0.046551447,0.017409734,15.485,57.73,90.5475235,22.30360433,78.75
+Montenegro,MNE,2024,503215,Europe & Central Asia (excluding high income),Upper middle income,0.041930592,0.041930592,0.093603236,0.024933871,14.084,,,22.81136184,85
+Morocco,MAR,2017,24894226,Middle East & North Africa (excluding high income),Lower middle income,0.24663109,0.24478713,0.221824477,,45.999,58.16,74.25469799,25.50238933,73.125
+Morocco,MAR,2021,26706787,Middle East & North Africa (excluding high income),Lower middle income,0.232635671,0.215686297,0.202556731,,49.02,57.11,79.29709198,25.67909289,75.625
+Morocco,MAR,2024,27893979,Middle East & North Africa (excluding high income),Lower middle income,0.199482723,0.197952861,0.160604975,,48.908,,91.25372117,25.76021844,75.625
+Mozambique,MOZ,2017,14874137,Sub-Saharan Africa (excluding high income),Low income,0.181926058,0.138459325,0.090607328,,1.772,65.95,35.29944992,23.30836773,79.375
+Mozambique,MOZ,2021,16874256,Sub-Saharan Africa (excluding high income),Low income,0.223078964,0.162253722,0.130431282,0.100949897,1.289,65.22,,23.50630325,82.5
+Mozambique,MOZ,2024,18581790,Sub-Saharan Africa (excluding high income),Low income,0.178666329,0.129020313,0.122613314,,1.67,,,23.83306984,82.5
+Myanmar,MMR,2014,36618649,East Asia & Pacific (excluding high income),Lower middle income,0.111964528,0.115119623,,,28.066,58.58,58.97364044,24.90579486,58.75
+Myanmar,MMR,2017,38000865,East Asia & Pacific (excluding high income),Lower middle income,0.000289996,-0.002748541,,,29.077,58.22,77.09761047,24.9137239,58.75
+Myanmar,MMR,2021,39685121,East Asia & Pacific (excluding high income),Lower middle income,0.033716393,0.02657072,-0.01508167,,28.674,57.76,,24.91813863,58.75
+Namibia,NAM,2014,1427950,Sub-Saharan Africa (excluding high income),Upper middle income,0.043569637,0.042994709,0.066328578,,7.592,33.51,79.87381232,23.24381557,80
+Namibia,NAM,2017,1547830,Sub-Saharan Africa (excluding high income),Upper middle income,-0.00062727,-0.005821236,0.021152674,0.032738534,8.834,33.53,82.91872879,23.28011737,80
+Namibia,NAM,2021,1715314,Sub-Saharan Africa (excluding high income),Upper middle income,0.04354055,0.067540859,0.080185042,0.091373276,7.03,34.19,87.14987885,23.24116279,80
+Namibia,NAM,2024,1858089,Sub-Saharan Africa (excluding high income),Upper middle income,-0.043789472,-0.069587012,-0.013997427,,7.857,,86.3728889,23.3164553,80
+Nepal,NPL,2011,17498633,South Asia (excluding high income),Lower middle income,0.083386387,0.083386387,,,32.775,74.98,59.23041153,23.79474881,49.375
+Nepal,NPL,2014,18161615,South Asia (excluding high income),Lower middle income,0.054579745,0.054579745,,,29.319,74.37,69.37741089,23.84702243,49.375
+Nepal,NPL,2017,18869412,South Asia (excluding high income),Lower middle income,0.083813158,0.083813158,,,26.67,74.28,77.74812317,24.08958149,55.625
+Nepal,NPL,2021,20254590,South Asia (excluding high income),Lower middle income,0.08707201,0.066756359,0.061131097,,26.167,75.02,85.64098737,24.33215037,80.625
+Nepal,NPL,2024,21168213,South Asia (excluding high income),Lower middle income,0.004492561,-0.024999718,0.054030841,,26.052,,90.88993129,24.4824702,80.625
+Netherlands,NLD,2011,13694510,High income,High income,0.005708664,0.005708664,-0.00631431,0.143349995,11.953,59.05,128.919281,27.54000172,95
+Netherlands,NLD,2014,13933854,High income,High income,0.002428813,0.002428813,-0.003962845,0.174373471,11.945,57.25,,27.52788036,95
+Netherlands,NLD,2017,14234525,High income,High income,-0.003940063,-0.003940063,-0.013906759,0.120628471,10.594,55.49,115.7963715,27.46614647,97.5
+Netherlands,NLD,2021,14717214,High income,High income,0.005254907,0.005254907,-0.00137422,0.094195973,9.369,53.94,136.8654175,27.67981128,97.5
+Netherlands,NLD,2024,15164931,High income,High income,-0.001675122,-0.001675122,-0.01576733,,9.275,,,27.83803529,100
+New Zealand,NZL,2011,3443024,High income,High income,-0.000243577,-0.000243577,0.00574525,0.008987654,12.491,58.13,121.2133408,25.84722982,91.875
+New Zealand,NZL,2014,3534713,High income,High income,0.006415116,0.006415116,-0.020426339,-0.070218586,11.297,57.65,119.4166031,26.03153353,91.875
+New Zealand,NZL,2017,3788624,High income,High income,-0.003468829,-0.003468829,-0.014848102,-0.049227234,11.32,57.58,116.7137527,26.05598463,91.875
+New Zealand,NZL,2021,4122094,High income,High income,-0.010126492,-0.010126492,-0.033927235,-0.064668529,9.747,57.92,120.6554718,26.2606001,97.5
+New Zealand,NZL,2024,4263369,High income,High income,-0.013718221,-0.013718221,-0.048786459,,9.183,,,26.28394747,97.5
+Nicaragua,NIC,2011,3774402,Latin America & Caribbean (excluding high income),Lower middle income,0.028879551,0.028879551,,,38.601,55.95,,23.00302533,72.5
+Nicaragua,NIC,2014,4012287,Latin America & Caribbean (excluding high income),Lower middle income,0.102870737,0.098388067,0.076277634,,35.213,56.12,,23.19815909,72.5
+Nicaragua,NIC,2017,4249427,Latin America & Caribbean (excluding high income),Lower middle income,0.126295992,0.130155775,0.135510875,,33.434,56.26,,23.34691166,86.25
+Nicaragua,NIC,2021,4567953,Latin America & Caribbean (excluding high income),Lower middle income,0.093730395,0.101030166,0.069818516,,33.561,56.25,,23.37714284,86.25
+Nicaragua,NIC,2024,4830854,Latin America & Caribbean (excluding high income),Lower middle income,0.047253684,0.047596659,0.021634187,,31.615,,,23.70357899,86.25
+Niger,NER,2014,9371030,Sub-Saharan Africa (excluding high income),Low income,,,,,22.684,84.62,15.04096267,23.10862316,53.75
+Niger,NER,2017,10546918,Sub-Saharan Africa (excluding high income),Low income,0.090324104,,,,23.751,83.14,20.30427939,23.13784875,53.75
+Niger,NER,2021,12328593,Sub-Saharan Africa (excluding high income),Low income,0.02948294,,,,23.908,81.28,,23.42563342,56.875
+Niger,NER,2024,13873697,Sub-Saharan Africa (excluding high income),Low income,0.054109098,0.034602922,,,24.487,,19.53799347,23.69560866,53.75
+Nigeria,NGA,2011,92621676,Sub-Saharan Africa (excluding high income),Lower middle income,0.072864911,0.072864911,0.015277599,,8.585,68.82,39.64064026,26.74913181,56.875
+Nigeria,NGA,2014,100567840,Sub-Saharan Africa (excluding high income),Lower middle income,0.20340085,0.2072262,0.202087444,,8.078,68.44,40.3631897,27.07589523,63.125
+Nigeria,NGA,2017,109170774,Sub-Saharan Africa (excluding high income),Lower middle income,0.241306575,0.239855671,0.175305062,,8.418,67.85,,26.65285498,63.125
+Nigeria,NGA,2021,122350743,Sub-Saharan Africa (excluding high income),Lower middle income,0.20488543,0.204487549,0.188074622,,8.642,66.89,45.17876053,26.81231071,63.125
+Nigeria,NGA,2024,133329232,Sub-Saharan Africa (excluding high income),Lower middle income,0.220872881,0.207737405,0.133671613,,3.714,,,25.9597078,66.25
+North Macedonia,MKD,2011,1569860,Europe & Central Asia (excluding high income),Upper middle income,0.043264212,0.043264212,0.060910042,0.015488097,24.162,66.44,,23.07412923,82.5
+North Macedonia,MKD,2014,1565432,Europe & Central Asia (excluding high income),Upper middle income,0.1571122,0.1571122,0.174892232,0.087217564,23.942,66.14,82.91233826,23.15356364,82.5
+North Macedonia,MKD,2017,1567300,Europe & Central Asia (excluding high income),Upper middle income,0.074785488,0.074785488,0.083987741,0.031510739,24.6,66.06,83.63128662,23.14869377,85
+North Macedonia,MKD,2021,1536653,Europe & Central Asia (excluding high income),Upper middle income,0.107104536,0.107104536,0.10491495,0.02420234,22.188,66.14,84.26631165,23.36234344,85
+North Macedonia,MKD,2024,1515847,Europe & Central Asia (excluding high income),Upper middle income,0.143575898,0.143575898,0.112871529,0.046736465,21.987,,,23.53779012,85
+Norway,NOR,2014,4150602,High income,High income,0,0,0.006163805,0.041721937,5.922,59.9,111.3588409,26.94186596,96.875
+Norway,NOR,2017,4298959,High income,High income,-0.005073488,-0.005073488,-0.016632759,0.024226656,5.746,58.88,115.0617294,26.71971793,96.875
+Norway,NOR,2021,4453612,High income,High income,-0.010215411,-0.010215411,0.008686979,-0.053912853,7.638,57.41,117.8288879,26.94385601,96.875
+Norway,NOR,2024,4608487,High income,High income,0.014470536,0.014470536,-0.004017613,,6.805,,,26.90535074,96.875
+Oman,OMN,2011,1989124,High income,High income,0.202200151,0.202200151,0.216662385,0.212811378,55.662,53.79,115.3941915,25.07351189,32.5
+Oman,OMN,2024,3775451,High income,High income,0.036251242,0.036251242,0.035625426,0.01399682,56.344,,,25.39609467,46.25
+Pakistan,PAK,2011,120857470,South Asia (excluding high income),Lower middle income,0.143279497,0.143279497,,,55.858,62.86,25.39493807,26.16568355,44.375
+Pakistan,PAK,2014,128875593,South Asia (excluding high income),Lower middle income,0.161286096,,,,54.879,63.23,28.56008935,26.32538466,46.875
+Pakistan,PAK,2017,135055510,South Asia (excluding high income),Lower middle income,0.275825949,0.227472494,,,56.828,63.38,31.25632218,26.54926594,46.875
+Pakistan,PAK,2021,146030491,South Asia (excluding high income),Lower middle income,0.146979174,0.094193691,,,55.758,63.69,36.78488927,26.57833776,55.625
+Pakistan,PAK,2024,155833628,South Asia (excluding high income),Lower middle income,0.303813739,0.172872307,0.171187295,,56.092,,46.48354154,26.64484426,58.75
+Panama,PAN,2011,2569368,High income,High income,0.032386437,0.032386437,0.01177391,0.026905115,33.891,55.92,74.72383132,24.298073,73.75
+Panama,PAN,2014,2737867,High income,High income,0.066894698,0.063164702,0.066062768,,30.268,55.27,79.22975922,24.6634312,73.75
+Panama,PAN,2017,2915245,High income,High income,0.085196966,0.084369476,0.08428406,,27.438,54.58,79.07852173,24.88725599,76.875
+Panama,PAN,2021,3160275,High income,High income,0.038371248,0.038371248,0.039260318,,28.034,53.65,,24.93385733,79.375
+Panama,PAN,2024,3331755,High income,High income,0.12272757,0.121477328,0.102484697,0.036216238,24.957,,,25.18063647,79.375
+Paraguay,PRY,2011,3870412,Latin America & Caribbean (excluding high income),Upper middle income,-0.02039122,-0.02039122,-0.007656276,,26.9,52.29,78.16397095,24.24243109,91.875
+Paraguay,PRY,2017,4382299,Latin America & Caribbean (excluding high income),Upper middle income,0.051749614,0.037117786,0.064306031,,26.424,53.49,,24.38675388,94.375
+Paraguay,PRY,2021,4679787,Latin America & Caribbean (excluding high income),Upper middle income,-0.018604584,-0.04744178,-0.001956598,,24.226,54.62,91.66036224,24.41091704,94.375
+Paraguay,PRY,2024,4874331,Latin America & Caribbean (excluding high income),Upper middle income,0.016577638,0.062471821,0.073068466,,23.566,,80.80233125,24.51781342,94.375
+Peru,PER,2011,20570757,Latin America & Caribbean (excluding high income),Upper middle income,0.05884126,0.05884126,0.049473832,,14.966,54.29,94.89893341,25.87076031,92.5
+Peru,PER,2014,21413567,Latin America & Caribbean (excluding high income),Upper middle income,0.131616808,0.131616808,0.112565285,0.038385053,15.65,54.06,97.20617676,26.02657075,92.5
+Peru,PER,2017,22473210,Latin America & Caribbean (excluding high income),Upper middle income,0.165377669,0.165574783,0.124455525,0.081669735,15.361,53.67,99.50537109,26.07512397,95
+Peru,PER,2021,24463530,Latin America & Caribbean (excluding high income),Upper middle income,0.092953991,0.101290547,0.140030194,0.040090405,14.347,52.93,102.3256836,26.14380084,95
+Peru,PER,2024,25601447,Latin America & Caribbean (excluding high income),Upper middle income,0.062997089,0.074354664,0.090562527,0.070078971,15.314,,,26.38969253,95
+Philippines,PHL,2011,62034866,East Asia & Pacific (excluding high income),Lower middle income,-0.1471063,-0.1471063,-0.066976423,,26.981,59.67,,26.17858695,72.5
+Philippines,PHL,2014,66911959,East Asia & Pacific (excluding high income),Lower middle income,-0.134483456,-0.119091517,-0.099705311,,26.418,58.43,85.45556724,26.41699798,78.75
+Philippines,PHL,2017,71585383,East Asia & Pacific (excluding high income),Lower middle income,-0.088344624,-0.07442128,0.046113195,,28.48,57.2,84.25282288,26.51627945,78.75
+Philippines,PHL,2021,77692157,East Asia & Pacific (excluding high income),Lower middle income,0.081751078,0.104873679,0.118351664,,24.797,55.86,87.93615201,26.69961675,78.75
+Philippines,PHL,2024,82023644,East Asia & Pacific (excluding high income),Lower middle income,-0.14059211,-0.103440304,-0.026882624,,22.38,,86.11545882,26.85883073,78.75
+Poland,POL,2011,32308457,High income,High income,0.040845198,0.040845198,0.003897021,0.025638168,16.183,57.03,99.93451691,26.99236212,76.25
+Poland,POL,2014,32293711,High income,High income,0.103018865,0.103018865,0.071336227,0.048232367,16.114,57.5,107.9651794,27.01853184,84.375
+Poland,POL,2017,32223349,High income,High income,-0.025870696,-0.025870696,-0.062232145,0.076603178,16.69,58.18,108.0016098,26.99236212,84.375
+Poland,POL,2021,32028961,High income,High income,0.000632426,0.000632426,0.037709846,0.085273472,16.145,58.59,109.8340988,27.25850711,93.75
+Poland,POL,2024,31148749,High income,High income,-0.004053716,-0.004053716,0.013327543,0.061077838,14.574,,,27.5421899,93.75
+Portugal,PRT,2011,8967347,High income,High income,0.073330044,0.073330044,0.142354712,0.137869423,12.427,57.71,109.9558563,26.22452405,97.5
+Portugal,PRT,2014,8911922,High income,High income,0.027278885,0.027278885,0.085247084,0.076133271,10.653,55.94,114.9400482,26.16134515,97.5
+Portugal,PRT,2017,8871342,High income,High income,0.036049844,0.036049844,0.046305159,0.105531922,10.465,53.7,117.0640793,26.12142854,97.5
+Portugal,PRT,2021,8923687,High income,High income,0.051906901,0.051906901,0.098588317,0.212423951,8.444,50.62,119.5064011,26.26844328,100
+Portugal,PRT,2024,9214262,High income,High income,0.065913824,0.065913824,0.063180817,,8.196,,,26.45660711,100
+Puerto Rico,PRI,2014,2955855,High income,High income,0.076105188,0.076105188,0.085776323,0.075674236,16.897,44.98,,,81.25
+Qatar,QAT,2011,1392286,High income,High income,0.070004798,0.070004798,0.078652449,0.05649375,43.221,63.15,96.59158914,25.84722982,29.375
+Romania,ROU,2011,17058580,High income,High income,0.074717643,0.074717643,0.034002266,-0.015108266,16.618,59.91,99.88307953,25.98595603,90.625
+Romania,ROU,2014,16846776,High income,High income,0.082831706,0.083649818,0.126289373,0.034104305,17.521,59.2,92.98542023,26.0215832,90.625
+Romania,ROU,2017,16606939,High income,High income,0.088073262,0.090210076,0.096241233,0.032938189,17.962,58.39,88.49598694,26.07037337,90.625
+Romania,ROU,2021,16163817,High income,High income,0.069341639,0.069341639,0.064594877,0.043819178,20.249,56.01,86.4143219,26.38274805,90.625
+Romania,ROU,2024,16033507,High income,High income,0.030963999,0.030963999,0.090047872,-0.001965012,20.076,,,26.67130083,90.625
+Russian Federation,RUS,2011,121177141,Europe & Central Asia (excluding high income),Upper middle income,0.010776334,0.010776334,0.020301589,,14.51,59.84,93.47036135,28.34886091,73.125
+Russian Federation,RUS,2014,120673872,Europe & Central Asia (excluding high income),Upper middle income,-0.063931331,-0.063931331,0.00096309,0.019310251,15.366,59.95,94.71231935,28.3537271,73.125
+Russian Federation,RUS,2017,120066877,Europe & Central Asia (excluding high income),Upper middle income,-0.008278345,-0.008278345,-0.000644067,-0.000123511,15.806,59.47,96.90468803,28.08209674,73.125
+Russian Federation,RUS,2021,119582441,Europe & Central Asia (excluding high income),Upper middle income,-0.008537468,-0.013719425,0.085731896,0.025792384,15.059,57.6,91.4263276,28.23533708,73.125
+Russian Federation,RUS,2024,118635010,Europe & Central Asia (excluding high income),Upper middle income,0.0438223,0.041750116,0.067652477,,14.214,,,28.40574828,73.125
+Rwanda,RWA,2011,5941330,Sub-Saharan Africa (excluding high income),Low income,0.092620082,0.092620082,,,14.155,49.41,37.17367935,22.65259843,72.5
+Rwanda,RWA,2014,6472142,Sub-Saharan Africa (excluding high income),Low income,0.137216864,0.154187059,,,13.213,50.09,43.21793106,22.8321407,72.5
+Rwanda,RWA,2017,7050113,Sub-Saharan Africa (excluding high income),Low income,0.107849632,0.073439274,,,12.078,50.52,41.57582856,22.94819571,72.5
+Saudi Arabia,SAU,2011,17354530,High income,High income,0.574881342,0.574881342,0.518394196,0.195415277,53.012,56.19,,27.24682814,26.25
+Saudi Arabia,SAU,2014,20496432,High income,High income,0.141762679,0.141762679,0.121101607,0.106807078,57.746,57.2,98.82596668,27.39149409,29.375
+Saudi Arabia,SAU,2017,23241801,High income,High income,0.223668778,0.223668778,0.230160915,0.130508687,59.356,57.83,107.2131976,27.33126646,31.875
+Saudi Arabia,SAU,2021,23509479,High income,High income,0.181872579,0.181872579,0.17133592,-0.021557754,45.749,55.96,102.3156726,27.61387496,80
+Saudi Arabia,SAU,2024,25248449,High income,High income,0.08350864,0.088523235,0.09627226,0.056324079,46.34,,110.7958783,27.8461325,71.25
+Senegal,SEN,2014,7858967,Sub-Saharan Africa (excluding high income),Lower middle income,0.085269511,0.077959446,,,24.475,66,50.51337949,23.70880905,63.75
+Senegal,SEN,2017,8705549,Sub-Saharan Africa (excluding high income),Lower middle income,0.082753487,0.098153979,,,21.368,65.67,,23.76762459,63.75
+Senegal,SEN,2021,10017948,Sub-Saharan Africa (excluding high income),Lower middle income,0.120099365,0.081857236,0.070246704,,26.472,65.4,50.10697169,24.03820734,66.875
+Senegal,SEN,2024,11094279,Sub-Saharan Africa (excluding high income),Lower middle income,0.060181213,0.075968252,-0.011790466,,26.254,,,24.19731876,72.5
+Serbia,SRB,2011,6237019,Europe & Central Asia (excluding high income),Upper middle income,-0.002105894,-0.002105894,-0.029431812,-0.011014275,17.122,59.94,94.82212067,24.66000289,96.875
+Serbia,SRB,2014,6141282,Europe & Central Asia (excluding high income),Upper middle income,0.002612464,0.002612464,0.016256129,-0.011306199,16.79,58.79,95.40973663,24.6174165,96.875
+Serbia,SRB,2017,6046629,Europe & Central Asia (excluding high income),Upper middle income,0.027492242,0.027492242,0.076402866,0.020363445,15.877,57.37,95.87869263,24.55131651,93.75
+Serbia,SRB,2021,5915242,Europe & Central Asia (excluding high income),Upper middle income,-0.008362192,-0.008362192,0.132743467,0.01463494,15.437,54.88,93.2046814,24.91534014,93.75
+Serbia,SRB,2024,5672737,Europe & Central Asia (excluding high income),Upper middle income,0.045928737,0.045928737,0.052339365,0.020355966,15.498,,,25.21284004,93.75
+Sierra Leone,SLE,2011,3534329,Sub-Saharan Africa (excluding high income),Low income,0.052452578,0.052452578,,,1.02,68.08,34.76924896,22.3046402,63.125
+Sierra Leone,SLE,2014,3858836,Sub-Saharan Africa (excluding high income),Low income,0.064319838,0.064389446,,,1.303,65.51,,22.76268439,63.125
+Sierra Leone,SLE,2017,4219730,Sub-Saharan Africa (excluding high income),Low income,0.0941293,0.054703542,,,4.11,63.01,41.10116959,22.472439,63.125
+Sierra Leone,SLE,2021,4762478,Sub-Saharan Africa (excluding high income),Low income,0.085912063,0.069058967,,,4.225,60.14,74.41432953,22.69364267,69.375
+Sierra Leone,SLE,2024,5200533,Sub-Saharan Africa (excluding high income),Low income,0.055443116,0.037435484,,,4.645,,,22.7445277,92.5
+Singapore,SGP,2011,4359214,High income,High income,0.000205494,0.000205494,0.0152252,0.001721879,18.406,49.65,,26.35447762,71.25
+Singapore,SGP,2014,4691514,High income,High income,0.00571698,0.00571698,0.015440492,0.017898751,16.656,47.33,,26.47583848,71.25
+Singapore,SGP,2017,4905185,High income,High income,0.033697379,0.031221825,0.00391499,0.001259754,15.716,45.2,106.8883946,26.56390749,82.5
+Singapore,SGP,2021,4993587,High income,High income,0.013954052,0.006511812,0.013709853,0.054257306,12.133,43.49,102.8204838,26.80319903,82.5
+Singapore,SGP,2024,5220107,High income,High income,0.007150849,0.004150252,-0.006763379,,14.437,,,27.02771464,82.5
+Slovak Republic,SVK,2011,4557830,High income,High income,0.014131588,0.014131588,0.025408437,0.023693321,17.936,,95.29025269,25.32548271,91.25
+Slovak Republic,SVK,2014,4582684,High income,High income,-0.056871305,-0.056871305,-0.075813208,-0.002890776,16.115,,93.43955994,25.34823865,94.375
+Slovak Republic,SVK,2017,4594115,High income,High income,0.021860325,0.021860325,-0.001685363,-0.01251906,15.032,,91.94107056,25.2873862,94.375
+Slovak Republic,SVK,2021,4593346,High income,High income,0.033454939,0.033454939,0.026437743,0.056536797,11.536,,91.80198669,25.51905638,85
+Slovak Republic,SVK,2024,4563499,High income,High income,0.023136341,0.023136341,0.033639538,,11.217,,,25.67909289,87.5
+Slovenia,SVN,2011,1758964,High income,High income,-0.020478015,-0.020478015,-0.011067806,0.017014887,11.81,52.05,97.91056061,24.65898964,90.625
+Slovenia,SVN,2014,1759867,High income,High income,0.005495241,0.005495241,0.037973186,0.021977904,10.809,50.99,110.2490921,24.62553071,90.625
+Slovenia,SVN,2017,1756994,High income,High income,0.012159138,0.012159138,0.034270803,0.050324798,10.154,49.61,115.7749786,24.59765343,90.625
+Slovenia,SVN,2021,1784150,High income,High income,0.018467869,0.018467869,0.029199334,0.120385185,9.826,47.24,108.5413284,24.842779,96.875
+Slovenia,SVN,2024,1803880,High income,High income,-0.004034233,-0.004034233,0.002358523,,10.189,,,25.0066456,96.875
+Somalia,SOM,2014,6719620,Sub-Saharan Africa (excluding high income),Low income,0.09905376,,,,26.791,61.98,,,46.875
+South Africa,ZAF,2011,36953226,Sub-Saharan Africa (excluding high income),Upper middle income,0.053566701,0.053566701,0.062987182,,13.632,34.73,92.02610779,26.85013502,78.75
+South Africa,ZAF,2014,38992463,Sub-Saharan Africa (excluding high income),Upper middle income,-0.000945768,4.41E-05,-0.010240863,0.005220233,13.875,34.3,106.2095795,26.66606521,81.875
+South Africa,ZAF,2017,41039555,Sub-Saharan Africa (excluding high income),Upper middle income,-0.015944829,-0.014301071,0.102780745,,13.644,34.18,110.6074905,26.66606521,88.125
+South Africa,ZAF,2021,44211052,Sub-Saharan Africa (excluding high income),Upper middle income,-0.016183988,-0.015953521,0.088648521,0.020038627,12.813,33.47,111.0945855,26.76589867,88.125
+South Africa,ZAF,2024,46723498,Sub-Saharan Africa (excluding high income),Upper middle income,0.002863281,-0.0279758,-0.030736002,,11.506,,,26.71473038,88.125
+South Sudan,SSD,2017,6092487,Sub-Saharan Africa (excluding high income),Low income,,,,,6.244,76.71,,,49.375
+South Sudan,SSD,2021,6159568,Sub-Saharan Africa (excluding high income),Low income,,,,,4.4,74.45,,,67.5
+Spain,ESP,2011,39626900,High income,High income,0.035434492,0.035434492,0.134787458,0.054219215,14.43,58.75,127.101059,28.02979724,97.5
+Spain,ESP,2014,39593406,High income,High income,0.000139412,0.000139412,0.074518671,0.057043742,12.493,56.9,125.8475494,27.95310462,97.5
+Spain,ESP,2017,39549433,High income,High income,0.042397915,0.042397915,0.102382443,0.077575464,11.828,54.3,121.6958466,27.90865285,97.5
+Spain,ESP,2021,40639965,High income,High income,0.016159675,0.016159675,0.091916329,0.034574577,10.347,50.18,121.4949722,28.00945755,97.5
+Spain,ESP,2024,41937630,High income,High income,0.011828464,0.011828464,0.027977397,,9.808,,,28.17334541,100
+Sri Lanka,LKA,2011,15571720,South Asia (excluding high income),Lower middle income,0.027485671,0.027485671,,,39.493,65.71,95.11206055,24.93913877,63.125
+Sri Lanka,LKA,2014,15433197,South Asia (excluding high income),Lower middle income,-0.008823203,-0.008823203,0.054265313,,38.473,66.09,96.14116977,25.13640996,63.125
+Sri Lanka,LKA,2017,16017388,South Asia (excluding high income),Lower middle income,0.00446522,0.003265058,0.033528181,,37.49,66.34,97.50626353,25.27048218,63.125
+Sri Lanka,LKA,2021,16803664,South Asia (excluding high income),Lower middle income,-0.000140551,-0.006585896,0.176048601,-0.007027979,38.812,66.05,91.9800638,25.20690885,63.125
+Sri Lanka,LKA,2024,17109247,South Asia (excluding high income),Lower middle income,0.031814457,0.021884932,0.081726734,,38.131,,,25.31801375,65.625
+Sudan,SDN,2014,21021157,Sub-Saharan Africa (excluding high income),Low income,0.102406655,0.102406655,0.065841521,,43.274,62.57,40.00651932,24.62557681,29.375
+Sweden,SWE,2011,7820937,High income,High income,-0.000428703,-0.000428703,-0.013094375,0.065261467,8.086,55.52,101.5286713,27.07065505,96.875
+Sweden,SWE,2014,7971436,High income,High income,-0.000774387,-0.000774387,-0.015559653,0.061204024,7.288,55.45,142.5754395,27.08283971,100
+Sweden,SWE,2017,8184039,High income,High income,-0.005187718,-0.005187718,-0.016621567,0.069141805,6.726,55.13,148.5285492,27.0074,100
+Sweden,SWE,2021,8517166,High income,High income,-0.00609855,-0.00609855,-0.006627404,0.089632854,6.911,54.29,146.8340454,27.18003549,100
+Sweden,SWE,2024,8719085,High income,High income,0.018960147,0.018960147,0.011334605,,6.529,,,27.13672479,100
+Switzerland,CHE,2014,6883205,High income,High income,0.026689208,0.026689208,0.044371856,0.093541308,12.226,57.96,,27.31219231,85.625
+Switzerland,CHE,2017,7127704,High income,High income,-0.008747367,-0.008747367,-0.012780577,0.095512751,11.841,57.66,102.1392136,27.26717768,85.625
+Switzerland,CHE,2021,7337959,High income,High income,0.00982066,0.00982066,-0.007231158,0.089337994,10.421,57.54,101.6870193,27.42645395,85.625
+Switzerland,CHE,2024,7553903,High income,High income,0.016190102,0.016190102,-0.01334518,,10.185,,,27.56594912,88.125
+Syrian Arab Republic,SYR,2011,14356499,Middle East & North Africa (excluding high income),Low income,0.07178647,0.07178647,,,56.909,57.44,71.85343933,24.93597739,34.375
+"Taiwan, China",TWN,2011,19429474,High income,High income,-0.02250003,-0.02250003,-0.062915567,-0.062142012,,,,,85
+"Taiwan, China",TWN,2014,19968635,High income,High income,0.018334586,0.018334586,0.094088557,0.005875001,,,,,85
+"Taiwan, China",TWN,2017,20340388,High income,High income,0.009331141,0.009331141,-0.093970088,-0.108750315,,,,,91.25
+"Taiwan, China",TWN,2021,20568066,High income,High income,0.021740114,0.021740114,-0.00657749,0.031870985,,,,,91.25
+"Taiwan, China",TWN,2024,20437095,High income,High income,-0.001382725,-0.001382725,0.028833264,,,,,,91.25
+Tajikistan,TJK,2014,5217089,Europe & Central Asia (excluding high income),Lower middle income,0.048046696,0.048046696,,,22.479,67.04,,22.93292451,75.625
+Tajikistan,TJK,2017,5649763,Europe & Central Asia (excluding high income),Lower middle income,0.09963012,0.09963012,-0.025022467,,20.16,67.45,,22.74301083,75.625
+Tajikistan,TJK,2021,6196225,Europe & Central Asia (excluding high income),Lower middle income,0.001547166,-0.009412922,0.019247252,,19.579,68.29,84.68634631,22.91355591,78.75
+Tajikistan,TJK,2024,6596875,Europe & Central Asia (excluding high income),Lower middle income,0.156552362,0.125096432,0.129772801,,19.49,,82.89361279,23.37682997,78.75
+Tanzania,TZA,2011,24470055,Sub-Saharan Africa (excluding high income),Lower middle income,0.069708692,0.069708692,0.044112213,,5.667,,,24.2687696,81.25
+Tanzania,TZA,2014,26884351,Sub-Saharan Africa (excluding high income),Lower middle income,0.111133425,0.039714091,0.038712812,,7.985,,29.00629997,24.63502334,81.25
+Tanzania,TZA,2017,30023264,Sub-Saharan Africa (excluding high income),Lower middle income,0.0940135,0.040769136,0.061089066,,7.507,,26.64235168,24.69873085,81.25
+Tanzania,TZA,2021,34527295,Sub-Saharan Africa (excluding high income),Lower middle income,0.13336308,0.157668875,0.115638291,,6.738,,29.2047596,24.98108361,81.25
+Tanzania,TZA,2024,38155970,Sub-Saharan Africa (excluding high income),Lower middle income,0.104016151,0.102449385,0.081438426,,7.277,,,25.08992328,81.25
+Thailand,THA,2011,54766867,East Asia & Pacific (excluding high income),Upper middle income,0.000625326,0.000625326,-0.034377276,,15.203,58.2,89.53132629,26.6394679,75
+Thailand,THA,2014,56707280,East Asia & Pacific (excluding high income),Upper middle income,0.05802622,0.05802622,0.068368815,,17.139,56.51,125.8694534,26.73207902,75
+Thailand,THA,2017,58293189,East Asia & Pacific (excluding high income),Upper middle income,0.039112752,0.03178288,0.026625647,,16.828,55.07,86.07043225,26.84575865,75
+Thailand,THA,2021,60059109,East Asia & Pacific (excluding high income),Upper middle income,0.059026304,0.042193755,0.105235755,0.133204928,16.071,52.95,88.41769003,26.94980251,78.125
+Thailand,THA,2024,60882768,East Asia & Pacific (excluding high income),Upper middle income,-0.017818238,-0.003943093,0.015644045,,15.84,,94.06281444,26.98856705,78.125
+Togo,TGO,2011,3932998,Sub-Saharan Africa (excluding high income),Low income,0.01968975,0.01968975,,,5.199,64.55,,22.41381214,69.375
+Togo,TGO,2014,4254423,Sub-Saharan Africa (excluding high income),Low income,0.063817452,0.064624418,,,5.092,64.26,,22.57851926,81.875
+Togo,TGO,2017,4608431,Sub-Saharan Africa (excluding high income),Low income,0.154562474,0.109380114,0.036374846,,4.665,63.73,51.50557455,22.57759666,84.375
+Togo,TGO,2021,5137794,Sub-Saharan Africa (excluding high income),Low income,0.109171183,0.070875757,,,4.048,62.81,56.96212381,22.84459804,84.375
+Togo,TGO,2024,5593530,Sub-Saharan Africa (excluding high income),Low income,0.246505003,0.125440683,0.051274924,,4.039,,,23.01839643,97.5
+Trinidad and Tobago,TTO,2011,1050120,High income,High income,0.121301813,0.121301813,0.131992323,0.045001335,23.795,45.61,,23.95931367,72.5
+Trinidad and Tobago,TTO,2017,1090252,High income,High income,0.146215919,0.146215919,0.185577683,0.051103957,20.311,44.34,,23.89495636,75
+Trinidad and Tobago,TTO,2024,1120989,High income,High income,0.025772565,0.025772565,-0.080219994,,16.423,,,23.99772636,75
+Tunisia,TUN,2014,8426960,Middle East & North Africa (excluding high income),Lower middle income,0.135478637,0.135634645,0.074156798,,44.515,52.35,,24.64071038,55.625
+Tunisia,TUN,2017,8662597,Middle East & North Africa (excluding high income),Lower middle income,0.173676917,0.175450757,0.134445474,,42.868,52.83,,24.46482148,55.625
+Tunisia,TUN,2021,8970562,Middle East & North Africa (excluding high income),Lower middle income,0.163922101,0.145012824,0.126237857,,39.134,52.91,,24.5749704,64.375
+Tunisia,TUN,2024,9219268,Middle East & North Africa (excluding high income),Lower middle income,0.229591009,0.231693954,0.211133932,,38.705,,,24.70126362,64.375
+Turkiye,TUR,2011,54201890,Europe & Central Asia (excluding high income),Upper middle income,0.493768967,0.493768967,0.499040011,0.373779675,42.619,,84.8130188,27.45547654,
+Turkiye,TUR,2014,57336171,Europe & Central Asia (excluding high income),Upper middle income,0.246982817,0.247221669,0.30915125,0.214228899,40.88,,105.4643402,27.56808132,
+Turkiye,TUR,2017,60604220,Europe & Central Asia (excluding high income),Upper middle income,0.287007404,0.291137191,0.292574271,0.182448967,38.813,,110.9619293,27.47903476,
+Turkiye,TUR,2021,64398074,Europe & Central Asia (excluding high income),Upper middle income,0.227985141,0.230042459,0.286135979,0.26661683,37.391,,113.1485214,27.43257018,
+Turkiye,TUR,2024,66691005,Europe & Central Asia (excluding high income),Upper middle income,0.199405331,0.200324401,0.208522262,0.283665784,35.06,,,27.90865285,
+Turkmenistan,TKM,2017,4458186,Europe & Central Asia (excluding high income),Upper middle income,0.101954453,0.101954453,0.093089047,,-1.824,64.09,,24.35891026,
+Uganda,UGA,2011,16363076,Sub-Saharan Africa (excluding high income),Low income,0.107194936,0.107194936,0.06478527,,4.581,60.17,,24.05087858,70
+Uganda,UGA,2014,18082753,Sub-Saharan Africa (excluding high income),Low income,0.157223741,0.093440034,0.055496021,,3.208,59.27,,24.20795834,70
+Uganda,UGA,2017,20360656,Sub-Saharan Africa (excluding high income),Low income,0.133705837,0.117965565,0.107676086,,5.504,58.64,,24.1489761,70
+Uganda,UGA,2021,24351947,Sub-Saharan Africa (excluding high income),Low income,0.018193482,0.02621524,0.029071712,,9.43,57.99,,24.42530307,73.125
+Uganda,UGA,2024,27277834,Sub-Saharan Africa (excluding high income),Low income,0.139007704,0.13551654,,,8.886,,,24.70578224,83.75
+Ukraine,UKR,2011,39900312,Europe & Central Asia (excluding high income),Lower middle income,0.046701072,0.046701072,0.032037546,0.031433614,10.384,61.94,94.71548605,25.85316455,75.625
+Ukraine,UKR,2014,39385204,Europe & Central Asia (excluding high income),Lower middle income,0.023322451,0.023322451,0.050975315,0.045088882,12.335,61.76,97.36146088,25.62110564,78.75
+Ukraine,UKR,2017,38655749,Europe & Central Asia (excluding high income),Lower middle income,0.037079107,0.037079107,0.070272634,-0.000222304,14.264,61.42,86.81218579,25.44176471,76.25
+Ukraine,UKR,2021,37851388,Europe & Central Asia (excluding high income),Lower middle income,0.063869796,0.063869796,0.088226173,0.106000145,15.091,59.77,85.05080783,26.0215832,79.375
+Ukraine,UKR,2024,32338724,Europe & Central Asia (excluding high income),Lower middle income,0.076318252,0.076318252,0.097467259,0.111655771,15.1,,,25.97553926,85
+United Arab Emirates,ARE,2011,5710622,High income,High income,0.215677958,0.215677958,0.208495874,0.196355285,47.676,67.5,,26.6121438,26.875
+United Arab Emirates,ARE,2014,6398423,High income,High income,0.223013622,0.234364404,0.278552892,0.179342841,44.927,67.46,,26.74913181,26.875
+United Arab Emirates,ARE,2017,7433015,High income,High income,0.162554408,0.17664573,0.155603506,0.118732526,41.209,67.38,,26.6919734,26.875
+United Arab Emirates,ARE,2021,7842387,High income,High income,-0.012883944,-0.017778112,-0.055848115,0.016442735,39.764,67.36,102.0686313,26.75154436,82.5
+United Kingdom,GBR,2011,51619966,High income,High income,-0.0094495,-0.0094495,-0.006739539,0.075219435,12.62,55.37,94.7179718,28.60934724,95
+United Kingdom,GBR,2014,52712003,High income,High income,0.005689696,0.005689696,0.024237399,0.063556551,11.56,53.66,131.2891846,28.74943603,95
+United Kingdom,GBR,2017,53834160,High income,High income,0.006006499,0.006006499,0.002226375,-0.013066535,10.548,52.16,127.6413269,28.61683791,97.5
+United Kingdom,GBR,2021,55029201,High income,High income,-0.002962905,-0.002962905,-0.010163352,-0.039476651,8.096,49.73,115.8200378,28.77524392,97.5
+United Kingdom,GBR,2024,56450851,High income,High income,0.00031576,0.00031576,0.006496583,,9.007,,,28.9230048,97.5
+United States,USA,2011,248390172,High income,High income,0.079128823,0.079128823,0.120729969,0.11565541,12.576,,,30.37829203,83.75
+United States,USA,2014,254715188,High income,High income,-0.024364485,-0.024364485,-0.002656166,-0.028388519,12.557,,97.51304626,30.49892002,83.75
+United States,USA,2017,261470917,High income,High income,0.008840939,0.008840939,0.023138021,0.047300251,12.32,,98.69555664,30.60655068,83.75
+United States,USA,2021,270549658,High income,High income,-0.037031774,-0.037031774,-0.07380063,-0.021109448,11.727,,101.344368,30.79649616,91.25
+United States,USA,2024,275987833,High income,High income,-0.001723589,-0.001723589,0.025831594,,10.859,,,31.00518983,91.25
+Uruguay,URY,2011,2578893,High income,High income,-0.006171401,-0.006171401,0.006421504,-0.053963399,19.253,54.06,,24.64211362,83.125
+Uruguay,URY,2014,2625287,High income,High income,0.092959451,0.088003517,0.137859799,0.019828295,18.811,53.36,,24.84224101,83.125
+Uruguay,URY,2017,2670291,High income,High income,0.069770122,0.069770122,0.090580564,-0.032454472,16.858,52.99,122.7873383,24.89774538,85.625
+Uruguay,URY,2021,2725712,High income,High income,-0.03376569,-0.03376569,-0.02301004,-0.02061292,14.315,52.8,127.3904875,24.82985322,88.75
+Uruguay,URY,2024,2755004,High income,High income,0.009607378,0.009607378,0.001567087,,13.685,,,25.11723971,88.75
+Uzbekistan,UZB,2011,20171292,Europe & Central Asia (excluding high income),Lower middle income,0.025246548,0.025246548,0.012380762,,31.212,70.97,89.21285248,24.82058778,67.5
+Uzbekistan,UZB,2014,21374576,Europe & Central Asia (excluding high income),Lower middle income,0.028569312,0.028569312,-0.024922025,,32.39,72.44,91.31877071,25.11580435,64.375
+Uzbekistan,UZB,2017,22359293,Europe & Central Asia (excluding high income),Lower middle income,0.023640909,0.023640909,0.042892405,,33.282,74.02,93.55917929,24.96751238,64.375
+Uzbekistan,UZB,2021,23599241,Europe & Central Asia (excluding high income),Lower middle income,0.114173068,0.114173068,0.066994731,,33.183,74.81,96.60674271,25.0714779,70.625
+Uzbekistan,UZB,2024,24646062,Europe & Central Asia (excluding high income),Lower middle income,-0.021641294,-0.021641294,-0.046945354,,32.858,,96.49391842,25.46819797,82.5
+"Venezuela, RB",VEN,2011,20199432,Latin America & Caribbean (excluding high income),Upper middle income,0.169086203,0.169086203,0.179937311,0.10858867,28.432,,85.9672699,26.47900805,82.5
+"Venezuela, RB",VEN,2014,21274157,Latin America & Caribbean (excluding high income),Upper middle income,0.078515427,0.074995192,0.078666459,0.043533625,27.453,,94.98358917,26.90120995,82.5
+"Venezuela, RB",VEN,2017,22179490,Latin America & Caribbean (excluding high income),Upper middle income,0.072679332,0.06692104,0.045599358,0.122276391,28.031,,87.93447876,,85
+"Venezuela, RB",VEN,2021,20527738,Latin America & Caribbean (excluding high income),Upper middle income,0.09395901,0.089407203,0.102617878,0.088559526,24.579,,,,85
+"Venezuela, RB",VEN,2024,20899114,Latin America & Caribbean (excluding high income),Upper middle income,-0.007732971,-0.011082856,0.042316346,0.067691991,30.662,,102.2485809,,85
+Viet Nam,VNM,2011,65955596,East Asia & Pacific (excluding high income),Lower middle income,0.050953007,0.050953007,0.027057111,,9.5,68.22,,25.87655743,70
+Viet Nam,VNM,2014,68893679,East Asia & Pacific (excluding high income),Lower middle income,-0.02212879,-0.020436966,-0.044062828,,9.5,70.38,,26.17430429,79.375
+Viet Nam,VNM,2017,71315938,East Asia & Pacific (excluding high income),Lower middle income,0.007853986,0.011882228,-0.012729046,,9.5,72.11,87.63047734,26.36162051,81.875
+Viet Nam,VNM,2021,74158712,East Asia & Pacific (excluding high income),Lower middle income,0.071744605,0.074146748,0.06895146,,9.5,72.82,90.30806385,26.62589917,85
+Viet Nam,VNM,2024,76663207,East Asia & Pacific (excluding high income),Lower middle income,0.013649159,0.008953999,0.023860372,,9.5,,,26.88868369,88.125
+West Bank and Gaza,PSE,2011,2199701,Middle East & North Africa (excluding high income),Lower middle income,0.184798994,0.184798994,0.113494755,,52.123,,90.47890977,23.13793777,26.25
+West Bank and Gaza,PSE,2014,2416583,Middle East & North Africa (excluding high income),Lower middle income,0.061226912,0.061226912,0.086379963,,51.903,,89.24063358,23.36158718,26.25
+West Bank and Gaza,PSE,2017,2625785,Middle East & North Africa (excluding high income),Lower middle income,0.185252294,0.185252294,0.135068773,,53.632,,91.15147479,23.50382273,26.25
+West Bank and Gaza,PSE,2021,2915259,Middle East & North Africa (excluding high income),Lower middle income,0.155105397,0.154402147,0.148688766,,52.67,,92.97052449,23.61967489,26.25
+West Bank and Gaza,PSE,2024,3183655,Middle East & North Africa (excluding high income),Lower middle income,0.23446915,0.23337743,0.226752699,,53.2,,,23.34147156,26.25
+"Yemen, Rep.",YEM,2014,16904246,Middle East & North Africa (excluding high income),Low income,,,,,61.437,,,24.48976781,26.875
+"Yemen, Rep.",YEM,2021,21192335,Middle East & North Africa (excluding high income),Low income,0.129088709,0.129088709,,,54.49,,,,26.875
+Zambia,ZMB,2011,7506102,Sub-Saharan Africa (excluding high income),Low income,-0.039444619,-0.039444619,-0.017441422,,15.307,58.8,,23.87854202,60.625
+Zambia,ZMB,2014,8358295,Sub-Saharan Africa (excluding high income),Low income,0.04887316,0.032409581,0.013586064,,14.541,57.5,,24.0243122,63.125
+Zambia,ZMB,2017,9326870,Sub-Saharan Africa (excluding high income),Low income,0.114020468,0.148250416,0.118711408,,13.359,56.19,,23.97648903,78.75
+Zambia,ZMB,2021,10800121,Sub-Saharan Africa (excluding high income),Low income,0.075005453,0.051970385,0.040705879,,12.187,54.31,,23.8186813,81.25
+Zambia,ZMB,2024,12029200,Sub-Saharan Africa (excluding high income),Low income,0.052893598,0.103578603,0.082348312,,11.205,,59.07077026,23.99381435,81.25
+Zimbabwe,ZWE,2011,7608011,Sub-Saharan Africa (excluding high income),Lower middle income,0.054211638,0.054211638,0.048174562,,12.175,63.04,,23.36956836,86.875
+Zimbabwe,ZWE,2014,7862617,Sub-Saharan Africa (excluding high income),Lower middle income,0.069741851,0.037905402,0.043960322,,12.821,62.98,,23.69345194,86.875
+Zimbabwe,ZWE,2017,8235262,Sub-Saharan Africa (excluding high income),Lower middle income,0.075625738,0.10110623,0.106564616,,12.067,62.46,,24.65655562,86.875
+Zimbabwe,ZWE,2021,8977056,Sub-Saharan Africa (excluding high income),Lower middle income,0.11886444,0.110172234,0.057256388,,11.595,62.22,,24.02797096,86.875
+Zimbabwe,ZWE,2024,9588258,Sub-Saharan Africa (excluding high income),Lower middle income,0.054073188,0.054395521,0.058046984,,11.601,,,24.51171241,86.875
